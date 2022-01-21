@@ -1,0 +1,1001 @@
+id,Restaurants,Category,Neighborhood,Price,Opening_Time,Closing_Time,Average_Rating,Good_for_kids
+1,Voltsillam,Korean,Harlem,Expensive,9:40,0:41,2,False
+2,Ronstring,Vegan,East Village,Cheap,9:53,0:40,5,True
+3,Pannier,Chinese,Lower East Side,Expensive,12:12,1:47,3,True
+4,Cardify,Fast Food,Brooklyn,Medium,8:52,1:49,4,True
+5,Lotstring,Russian,Hell's Kitchen,Expensive,8:58,0:39,2,True
+6,Lotlux,Fast Food,Hell's Kitchen,Cheap,9:20,1:06,1,True
+7,Gembucket,Vegan,Bronx,Expensive,11:14,0:58,3,False
+8,Keylex,Italian,East Village,Medium,11:51,0:08,2,False
+9,Stringtough,Italian,Harlem,Expensive,8:44,0:25,1,True
+10,Zathin,Russian,Manhattan,Expensive,10:35,1:40,2,False
+11,Bitchip,Russian,Manhattan,Cheap,12:39,0:39,2,False
+12,Rank,Fast Food,Bronx,Expensive,8:48,1:45,5,False
+13,Opela,Chinese,Hell's Kitchen,Medium,8:47,1:54,4,False
+14,Matsoft,Kazakh,Brooklyn,Cheap,8:43,1:23,1,False
+15,Zathin,Italian,Harlem,Cheap,8:58,1:53,4,False
+16,Ventosanzap,Korean,Harlem,Cheap,8:04,0:41,1,True
+17,Andalax,Vegan,Harlem,Cheap,8:40,0:54,1,True
+18,Tampflex,Chinese,Brooklyn,Cheap,10:26,1:54,4,False
+19,Fix San,Russian,Lower East Side,Medium,10:02,0:15,2,False
+20,Job,Fast Food,Hell's Kitchen,Medium,12:05,0:17,4,True
+21,Regrant,Mexican,Brooklyn,Expensive,9:57,1:12,5,False
+22,Keylex,Chinese,Bronx,Cheap,8:36,1:07,3,False
+23,Home Ing,Mexican,Lower East Side,Cheap,10:35,1:17,3,True
+24,Stim,Mexican,Lower East Side,Medium,10:05,0:30,5,False
+25,Daltfresh,Russian,Bronx,Medium,11:43,0:13,5,False
+26,Vagram,Chinese,Harlem,Cheap,10:37,1:10,5,False
+27,Zathin,Indian,Harlem,Cheap,12:02,0:25,4,False
+28,Ronstring,Japanese,Lower East Side,Medium,10:59,1:00,5,False
+29,Transcof,Russian,Brooklyn,Medium,10:29,0:21,3,True
+30,Zathin,Italian,Manhattan,Expensive,10:08,1:47,1,True
+31,Greenlam,Mexican,Brooklyn,Expensive,11:41,1:40,1,True
+32,Tampflex,Mexican,Brooklyn,Medium,10:41,0:01,4,False
+33,Tin,Vegan,Manhattan,Medium,12:59,0:06,4,True
+34,Tres-Zap,Korean,East Village,Cheap,9:38,1:40,1,True
+35,Voltsillam,Fast Food,East Village,Cheap,10:19,0:18,4,False
+36,Quo Lux,Indian,Brooklyn,Expensive,8:36,0:59,4,False
+37,Veribet,Italian,East Village,Medium,10:08,0:47,1,False
+38,Treeflex,Fast Food,Manhattan,Medium,9:38,0:40,4,True
+39,Ventosanzap,Chinese,East Village,Expensive,11:10,1:45,1,False
+40,Cookley,Mexican,Bronx,Expensive,10:34,1:35,2,True
+41,Tresom,Italian,Harlem,Cheap,11:22,1:11,1,False
+42,Bitwolf,Japanese,Harlem,Expensive,9:06,0:29,2,True
+43,Keylex,Indian,Hell's Kitchen,Cheap,8:35,0:17,2,True
+44,Bitwolf,Mexican,Lower East Side,Medium,10:05,1:48,3,True
+45,Stronghold,Korean,Brooklyn,Expensive,9:08,1:36,1,False
+46,Domainer,Indian,Harlem,Cheap,8:28,1:59,5,False
+47,Fix San,Vegan,East Village,Expensive,11:31,1:50,5,False
+48,Tin,Chinese,Lower East Side,Cheap,12:04,1:28,1,False
+49,Daltfresh,Fast Food,Hell's Kitchen,Expensive,10:47,1:17,1,True
+50,Pannier,Indian,Manhattan,Medium,11:51,0:22,4,True
+51,Y-find,Mexican,Hell's Kitchen,Medium,10:00,1:51,3,False
+52,Alpha,Russian,East Village,Medium,8:42,1:01,5,True
+53,Wrapsafe,Mexican,Brooklyn,Cheap,11:11,1:14,5,False
+54,Flowdesk,Mexican,East Village,Medium,9:28,0:21,5,True
+55,Bamity,Indian,Lower East Side,Medium,10:04,0:49,2,True
+56,Voyatouch,Chinese,East Village,Expensive,10:19,1:34,1,False
+57,Sonair,Fast Food,Manhattan,Expensive,8:41,0:10,2,False
+58,Andalax,Mexican,Lower East Side,Medium,9:53,1:52,2,False
+59,Tresom,Mexican,Brooklyn,Medium,8:46,0:58,5,True
+60,Tampflex,Japanese,Bronx,Medium,8:25,1:54,5,True
+61,Latlux,Kazakh,Brooklyn,Cheap,8:06,1:12,1,False
+62,Trippledex,Chinese,Brooklyn,Medium,9:15,0:32,4,True
+63,Tampflex,Italian,Lower East Side,Medium,11:45,1:30,4,False
+64,Bigtax,Indian,East Village,Medium,12:53,1:23,3,False
+65,Hatity,Chinese,Harlem,Cheap,12:59,0:59,4,True
+66,Fintone,Mexican,East Village,Expensive,9:00,1:07,1,False
+67,Y-find,Russian,Manhattan,Cheap,10:47,1:06,5,False
+68,Subin,Vegan,Bronx,Expensive,8:20,0:05,3,False
+69,Voyatouch,Indian,Harlem,Cheap,8:08,1:08,2,True
+70,Overhold,Kazakh,Brooklyn,Cheap,12:39,0:04,2,True
+71,Transcof,Fast Food,Brooklyn,Medium,10:36,0:44,2,True
+72,Lotlux,Japanese,Manhattan,Expensive,12:12,1:19,1,False
+73,Voyatouch,Vegan,East Village,Expensive,12:27,0:32,2,False
+74,Bitwolf,Fast Food,Harlem,Cheap,11:30,1:09,2,False
+75,Sub-Ex,Fast Food,Manhattan,Cheap,9:48,1:32,1,True
+76,Overhold,Chinese,Bronx,Medium,11:13,1:41,4,False
+77,Temp,Japanese,Brooklyn,Cheap,12:05,1:14,1,False
+78,Wrapsafe,Mexican,Harlem,Cheap,9:53,0:55,4,False
+79,It,Japanese,Bronx,Expensive,11:04,0:21,1,False
+80,Lotstring,Vegan,Brooklyn,Medium,10:42,1:18,5,False
+81,Lotstring,Russian,Hell's Kitchen,Cheap,11:52,0:05,3,False
+82,Wrapsafe,Japanese,Manhattan,Medium,11:31,1:00,5,True
+83,Home Ing,Vegan,Brooklyn,Expensive,10:23,0:46,3,False
+84,Zathin,Vegan,Lower East Side,Expensive,9:19,0:29,4,False
+85,Lotstring,Vegan,Lower East Side,Cheap,12:06,1:20,2,False
+86,Namfix,Vegan,Lower East Side,Expensive,9:10,0:27,1,True
+87,Latlux,Russian,Lower East Side,Cheap,12:13,0:51,3,True
+88,Zoolab,Japanese,Manhattan,Cheap,8:24,1:37,2,False
+89,It,Russian,Brooklyn,Expensive,10:53,0:39,3,False
+90,Cookley,Vegan,Brooklyn,Cheap,9:57,0:04,3,True
+91,Alphazap,Japanese,East Village,Medium,10:47,1:02,4,True
+92,It,Italian,Harlem,Expensive,10:19,1:11,3,True
+93,Prodder,Chinese,East Village,Cheap,12:06,0:54,3,False
+94,Overhold,Russian,Manhattan,Cheap,12:28,0:45,3,False
+95,Voltsillam,Italian,Hell's Kitchen,Cheap,9:56,1:38,2,False
+96,Sonair,Kazakh,Lower East Side,Medium,8:14,1:42,5,True
+97,Cardify,Italian,Manhattan,Medium,8:56,0:06,1,False
+98,Subin,Kazakh,Lower East Side,Expensive,12:41,0:51,3,True
+99,Stringtough,Indian,Lower East Side,Expensive,8:01,1:11,5,True
+100,Bamity,Japanese,Manhattan,Expensive,9:13,0:59,3,False
+101,Wrapsafe,Italian,Hell's Kitchen,Medium,8:25,1:40,2,False
+102,Fix San,Korean,East Village,Cheap,11:56,0:30,2,True
+103,It,Chinese,Lower East Side,Cheap,9:01,0:20,4,True
+104,Stronghold,Italian,Lower East Side,Cheap,11:23,1:33,2,True
+105,Cookley,Japanese,Hell's Kitchen,Medium,9:21,1:00,1,False
+106,Domainer,Indian,Lower East Side,Cheap,8:13,1:32,1,False
+107,Tresom,Fast Food,Bronx,Medium,10:42,0:48,4,False
+108,Bitwolf,Japanese,Manhattan,Expensive,8:28,1:37,5,True
+109,Matsoft,Japanese,Harlem,Medium,9:22,1:25,4,False
+110,Home Ing,Italian,Manhattan,Expensive,11:45,0:01,1,True
+111,Prodder,Kazakh,Brooklyn,Expensive,8:19,1:56,3,False
+112,Zathin,Kazakh,Bronx,Cheap,10:07,1:22,1,True
+113,Latlux,Russian,Hell's Kitchen,Expensive,12:46,1:16,3,False
+114,Zamit,Japanese,Harlem,Medium,9:52,0:49,1,False
+115,Wrapsafe,Vegan,East Village,Medium,11:01,1:11,4,True
+116,Overhold,Indian,Manhattan,Expensive,9:44,0:46,5,False
+117,Zoolab,Fast Food,Bronx,Expensive,11:49,0:11,4,True
+118,Bitchip,Korean,Lower East Side,Expensive,12:50,0:16,1,True
+119,Treeflex,Indian,East Village,Medium,11:34,1:32,3,False
+120,Voyatouch,Vegan,Lower East Side,Expensive,9:59,1:56,4,False
+121,Toughjoyfax,Fast Food,Brooklyn,Expensive,10:43,0:10,1,True
+122,Pannier,Kazakh,Lower East Side,Expensive,12:29,0:56,3,False
+123,Konklab,Italian,Bronx,Medium,11:06,1:38,3,False
+124,Fix San,Mexican,Bronx,Medium,11:02,1:03,2,False
+125,Bytecard,Vegan,Hell's Kitchen,Expensive,12:52,1:33,2,False
+126,Sonair,Italian,Manhattan,Medium,9:24,1:41,1,True
+127,Zathin,Italian,Brooklyn,Cheap,12:04,1:21,4,True
+128,Opela,Fast Food,East Village,Cheap,8:33,0:20,1,True
+129,Viva,Korean,Hell's Kitchen,Cheap,8:57,0:58,1,True
+130,Lotlux,Kazakh,Brooklyn,Cheap,12:55,0:45,3,True
+131,Domainer,Italian,Manhattan,Cheap,10:38,1:57,2,True
+132,Zaam-Dox,Indian,Harlem,Medium,9:48,0:41,1,True
+133,Tin,Russian,Bronx,Cheap,9:04,1:44,1,True
+134,Zoolab,Korean,Manhattan,Medium,8:32,0:14,3,True
+135,Zoolab,Fast Food,Harlem,Expensive,12:50,1:50,2,False
+136,Job,Kazakh,Hell's Kitchen,Expensive,8:15,0:15,3,True
+137,Cardguard,Italian,Harlem,Expensive,9:39,1:38,5,False
+138,Keylex,Fast Food,Hell's Kitchen,Cheap,8:45,0:36,5,True
+139,Rank,Fast Food,Hell's Kitchen,Cheap,10:38,1:35,1,True
+140,Lotstring,Mexican,Harlem,Expensive,8:22,0:50,3,True
+141,Prodder,Fast Food,Lower East Side,Medium,9:41,1:07,1,True
+142,Zoolab,Italian,Harlem,Expensive,8:29,0:26,5,False
+143,Home Ing,Italian,Lower East Side,Cheap,9:42,1:41,2,False
+144,Lotlux,Japanese,Bronx,Medium,8:24,0:41,4,True
+145,Vagram,Italian,Manhattan,Cheap,11:39,1:04,5,True
+146,Lotlux,Japanese,Bronx,Medium,11:58,0:53,2,True
+147,Viva,Korean,Bronx,Expensive,10:15,0:40,4,True
+148,Cardguard,Italian,Harlem,Cheap,8:02,0:30,2,True
+149,Sonair,Japanese,Bronx,Expensive,9:58,0:58,1,True
+150,Matsoft,Indian,Harlem,Medium,11:34,0:18,1,True
+151,Zoolab,Russian,Lower East Side,Expensive,12:09,0:59,3,False
+152,Zoolab,Russian,Manhattan,Expensive,12:33,1:44,3,False
+153,Zaam-Dox,Chinese,East Village,Medium,11:47,0:13,3,True
+154,Zamit,Fast Food,Brooklyn,Expensive,10:52,1:29,5,False
+155,Latlux,Kazakh,Lower East Side,Expensive,10:29,0:36,3,True
+156,Bitwolf,Indian,Manhattan,Medium,9:29,0:58,2,True
+157,Job,Vegan,Bronx,Cheap,10:05,0:24,3,False
+158,Zaam-Dox,Russian,East Village,Medium,8:32,0:50,5,False
+159,Greenlam,Korean,Hell's Kitchen,Expensive,12:31,0:47,2,False
+160,Daltfresh,Mexican,Harlem,Cheap,11:52,0:42,2,True
+161,Y-Solowarm,Italian,Bronx,Medium,8:20,0:35,5,False
+162,Sonair,Fast Food,Lower East Side,Expensive,9:07,1:33,2,True
+163,Quo Lux,Japanese,Brooklyn,Medium,12:19,0:32,2,False
+164,Stringtough,Indian,Hell's Kitchen,Expensive,11:30,0:36,1,True
+165,Daltfresh,Vegan,East Village,Medium,11:26,1:10,3,True
+166,Tresom,Chinese,Harlem,Medium,10:32,1:58,3,True
+167,Subin,Fast Food,Harlem,Medium,12:08,1:34,2,True
+168,Rank,Korean,Bronx,Cheap,9:54,0:27,2,True
+169,Redhold,Fast Food,East Village,Medium,8:54,0:50,1,True
+170,Wrapsafe,Indian,Brooklyn,Medium,12:52,0:09,5,False
+171,Cardify,Japanese,Manhattan,Expensive,9:43,0:10,4,True
+172,Transcof,Italian,Bronx,Expensive,10:25,0:38,1,True
+173,Alpha,Fast Food,Bronx,Cheap,10:21,0:08,3,False
+174,Holdlamis,Japanese,Manhattan,Cheap,10:10,0:41,3,True
+175,It,Vegan,Harlem,Cheap,9:16,2:00,2,True
+176,Prodder,Italian,Bronx,Expensive,8:19,0:25,3,False
+177,Temp,Indian,Manhattan,Medium,10:53,0:31,4,False
+178,Hatity,Italian,Manhattan,Medium,10:13,1:06,2,True
+179,Sub-Ex,Vegan,Harlem,Medium,12:17,0:12,5,True
+180,Solarbreeze,Fast Food,Bronx,Expensive,8:03,1:20,2,True
+181,Treeflex,Japanese,Harlem,Cheap,10:44,1:01,4,False
+182,Y-find,Kazakh,Hell's Kitchen,Expensive,12:07,1:48,1,True
+183,Fixflex,Indian,Bronx,Medium,12:59,0:27,4,False
+184,Cardguard,Russian,Manhattan,Expensive,10:58,1:34,2,True
+185,Bytecard,Russian,Lower East Side,Expensive,10:49,1:51,5,False
+186,Flowdesk,Japanese,Lower East Side,Medium,11:22,0:33,4,False
+187,Konklab,Mexican,Lower East Side,Medium,8:37,0:16,4,True
+188,Tresom,Kazakh,Bronx,Expensive,11:10,0:34,2,False
+189,Solarbreeze,Russian,East Village,Medium,8:11,0:09,1,False
+190,Viva,Fast Food,Bronx,Medium,12:31,1:02,5,False
+191,Toughjoyfax,Russian,Harlem,Cheap,8:36,1:32,1,True
+192,Sub-Ex,Korean,Bronx,Cheap,10:13,0:06,1,True
+193,Flowdesk,Russian,East Village,Medium,11:14,1:05,5,False
+194,Span,Indian,Hell's Kitchen,Cheap,12:01,0:01,2,False
+195,Zamit,Japanese,Hell's Kitchen,Medium,12:16,1:09,4,True
+196,Tempsoft,Indian,Manhattan,Cheap,11:20,1:29,4,True
+197,Temp,Indian,Lower East Side,Cheap,11:04,1:00,1,True
+198,Mat Lam Tam,Kazakh,Brooklyn,Cheap,12:03,0:04,3,True
+199,Konklux,Kazakh,Harlem,Cheap,9:09,1:10,2,False
+200,Kanlam,Italian,Harlem,Cheap,10:12,1:45,3,True
+201,Home Ing,Mexican,Hell's Kitchen,Expensive,10:29,0:57,2,False
+202,Temp,Fast Food,Harlem,Cheap,8:32,1:17,2,True
+203,Rank,Chinese,Brooklyn,Medium,11:20,0:00,4,True
+204,Alphazap,Korean,Manhattan,Cheap,12:15,0:33,4,False
+205,Redhold,Fast Food,Hell's Kitchen,Expensive,10:58,0:17,5,False
+206,Domainer,Italian,Hell's Kitchen,Cheap,12:17,1:32,1,True
+207,Otcom,Fast Food,East Village,Cheap,9:31,1:56,2,True
+208,Zaam-Dox,Russian,Lower East Side,Medium,11:31,1:27,5,True
+209,Temp,Russian,Bronx,Expensive,10:33,1:14,3,False
+210,Temp,Russian,East Village,Cheap,9:25,1:45,2,True
+211,Tempsoft,Kazakh,Manhattan,Cheap,11:45,0:40,1,False
+212,Holdlamis,Korean,Brooklyn,Medium,10:59,0:32,1,True
+213,Tin,Kazakh,East Village,Medium,12:33,1:30,1,True
+214,Solarbreeze,Russian,Hell's Kitchen,Cheap,8:00,0:10,2,False
+215,Voltsillam,Italian,East Village,Expensive,10:18,1:57,3,False
+216,Subin,Fast Food,East Village,Cheap,11:06,0:49,3,False
+217,Toughjoyfax,Indian,Bronx,Expensive,8:52,1:04,4,True
+218,Ronstring,Kazakh,Harlem,Medium,8:11,0:29,5,False
+219,Zathin,Russian,Harlem,Cheap,11:56,1:45,2,False
+220,Ventosanzap,Fast Food,Brooklyn,Cheap,9:47,0:52,5,False
+221,Domainer,Korean,Harlem,Medium,8:25,0:51,4,False
+222,Domainer,Japanese,Bronx,Cheap,10:46,1:09,5,False
+223,Treeflex,Indian,Hell's Kitchen,Expensive,8:01,0:03,1,True
+224,Zaam-Dox,Fast Food,Bronx,Expensive,8:17,0:44,4,False
+225,Subin,Fast Food,Bronx,Medium,10:55,0:04,2,False
+226,Regrant,Japanese,Brooklyn,Cheap,11:54,0:29,4,True
+227,Aerified,Fast Food,East Village,Medium,10:39,1:26,2,False
+228,Regrant,Russian,Brooklyn,Cheap,12:42,0:05,4,False
+229,Zathin,Italian,Brooklyn,Cheap,11:34,1:11,3,True
+230,Temp,Mexican,Brooklyn,Cheap,12:34,0:43,4,True
+231,Konklux,Fast Food,Hell's Kitchen,Cheap,12:41,1:21,3,False
+232,Veribet,Chinese,Hell's Kitchen,Expensive,8:26,0:46,1,False
+233,Domainer,Korean,Lower East Side,Expensive,9:35,1:45,4,True
+234,Sonsing,Chinese,Brooklyn,Cheap,9:42,1:41,3,False
+235,Y-find,Mexican,Bronx,Cheap,12:39,1:09,3,True
+236,Trippledex,Mexican,Harlem,Expensive,9:14,0:15,1,False
+237,Opela,Indian,Lower East Side,Cheap,8:38,1:16,2,True
+238,Y-Solowarm,Fast Food,Lower East Side,Medium,9:20,0:25,1,False
+239,Andalax,Korean,East Village,Medium,10:36,1:40,3,False
+240,Vagram,Korean,Manhattan,Expensive,12:28,1:25,1,True
+241,Regrant,Russian,Hell's Kitchen,Expensive,11:51,1:34,5,True
+242,Quo Lux,Kazakh,Manhattan,Expensive,10:38,1:43,2,False
+243,Opela,Mexican,Manhattan,Expensive,8:53,0:40,2,True
+244,Tempsoft,Fast Food,East Village,Cheap,9:34,1:52,3,True
+245,Tampflex,Fast Food,Brooklyn,Expensive,8:26,1:55,2,False
+246,Job,Fast Food,Lower East Side,Cheap,9:42,0:12,1,False
+247,Fixflex,Italian,Brooklyn,Cheap,8:29,1:25,3,True
+248,Andalax,Vegan,Manhattan,Cheap,8:40,0:05,2,False
+249,Mat Lam Tam,Indian,Brooklyn,Expensive,11:49,0:44,5,True
+250,Fixflex,Fast Food,Harlem,Expensive,11:43,0:29,3,True
+251,Opela,Vegan,Bronx,Expensive,10:01,1:33,1,True
+252,Job,Italian,Manhattan,Medium,11:01,1:12,4,True
+253,Solarbreeze,Indian,Harlem,Medium,9:25,0:51,1,False
+254,Sub-Ex,Japanese,Lower East Side,Expensive,10:11,0:01,2,True
+255,Temp,Fast Food,Lower East Side,Cheap,12:23,1:54,5,False
+256,Flowdesk,Vegan,East Village,Cheap,10:51,0:55,4,True
+257,Quo Lux,Kazakh,Harlem,Medium,8:24,0:49,5,False
+258,Tempsoft,Vegan,Lower East Side,Expensive,12:11,0:46,1,False
+259,Konklab,Korean,Brooklyn,Medium,9:15,0:18,1,False
+260,Zontrax,Russian,Bronx,Cheap,8:04,0:15,2,False
+261,Cookley,Russian,Hell's Kitchen,Cheap,8:44,1:11,4,True
+262,Stronghold,Fast Food,Bronx,Medium,8:47,1:42,4,True
+263,Cookley,Japanese,Bronx,Expensive,11:05,0:51,1,False
+264,Kanlam,Indian,East Village,Cheap,12:47,0:07,5,True
+265,Lotstring,Mexican,Manhattan,Expensive,11:36,1:48,1,True
+266,Flowdesk,Mexican,East Village,Medium,11:40,1:09,2,False
+267,Otcom,Vegan,Lower East Side,Medium,11:53,0:11,2,False
+268,Cardguard,Fast Food,Manhattan,Medium,10:01,1:06,1,False
+269,Holdlamis,Korean,Harlem,Cheap,11:28,1:44,4,True
+270,Matsoft,Russian,Lower East Side,Cheap,8:12,0:49,1,False
+271,Tres-Zap,Vegan,Hell's Kitchen,Expensive,12:27,0:13,5,True
+272,Daltfresh,Italian,Manhattan,Cheap,8:27,0:03,5,True
+273,Bitwolf,Japanese,Bronx,Expensive,12:15,1:40,4,True
+274,Sub-Ex,Fast Food,East Village,Expensive,9:07,0:55,4,True
+275,Stringtough,Fast Food,Manhattan,Expensive,8:16,1:01,3,True
+276,Sub-Ex,Japanese,Harlem,Medium,11:32,0:12,4,False
+277,Stim,Vegan,Lower East Side,Medium,12:16,1:31,2,False
+278,Tin,Mexican,Manhattan,Expensive,8:03,1:42,4,False
+279,Cardguard,Fast Food,Bronx,Medium,12:22,0:27,1,True
+280,Stim,Vegan,Brooklyn,Medium,12:42,1:36,4,False
+281,Domainer,Korean,Brooklyn,Medium,12:18,0:48,1,False
+282,Hatity,Japanese,Brooklyn,Expensive,12:47,0:06,1,False
+283,Redhold,Kazakh,East Village,Expensive,10:25,0:27,2,True
+284,Job,Japanese,East Village,Expensive,11:50,1:47,5,True
+285,Sonair,Indian,Lower East Side,Expensive,12:37,1:33,5,True
+286,Stringtough,Indian,Harlem,Expensive,12:22,0:13,5,True
+287,Solarbreeze,Fast Food,Brooklyn,Expensive,11:30,0:52,5,True
+288,Voltsillam,Korean,Harlem,Medium,12:35,0:01,1,True
+289,Lotstring,Mexican,East Village,Expensive,9:09,0:27,4,True
+290,Sonsing,Russian,Bronx,Expensive,12:43,0:00,1,False
+291,Job,Russian,Manhattan,Medium,12:34,0:53,3,True
+292,Asoka,Vegan,Lower East Side,Cheap,8:10,1:08,2,False
+293,Namfix,Russian,Harlem,Expensive,11:41,1:47,1,True
+294,Lotlux,Mexican,Hell's Kitchen,Cheap,9:50,1:01,1,False
+295,Zamit,Indian,Brooklyn,Cheap,12:45,1:05,3,False
+296,Cardify,Italian,Manhattan,Expensive,8:32,1:07,1,False
+297,Treeflex,Japanese,Manhattan,Expensive,9:50,0:25,4,True
+298,Alphazap,Fast Food,Bronx,Expensive,9:36,0:34,4,False
+299,Flowdesk,Japanese,Hell's Kitchen,Medium,8:03,1:03,1,False
+300,Zoolab,Fast Food,Harlem,Cheap,10:37,1:51,2,True
+301,It,Vegan,Brooklyn,Cheap,12:55,0:24,4,False
+302,Wrapsafe,Japanese,Lower East Side,Cheap,11:56,1:02,5,True
+303,Holdlamis,Indian,Lower East Side,Medium,8:23,1:23,1,False
+304,Lotlux,Fast Food,Hell's Kitchen,Cheap,10:14,0:43,1,False
+305,Daltfresh,Mexican,Manhattan,Cheap,12:10,0:36,1,True
+306,Zoolab,Japanese,Manhattan,Expensive,8:36,1:48,5,True
+307,Daltfresh,Indian,Lower East Side,Medium,8:43,1:52,1,False
+308,Trippledex,Korean,Manhattan,Medium,10:51,0:17,2,True
+309,Greenlam,Italian,Manhattan,Medium,10:12,1:31,4,True
+310,Aerified,Mexican,Bronx,Medium,9:17,0:32,2,True
+311,Tampflex,Chinese,Brooklyn,Cheap,8:43,0:53,3,False
+312,Daltfresh,Fast Food,East Village,Medium,9:28,0:55,1,False
+313,Sub-Ex,Kazakh,Bronx,Cheap,9:36,1:59,3,False
+314,Andalax,Japanese,Bronx,Medium,8:34,0:35,3,True
+315,Cardify,Chinese,Bronx,Medium,11:20,0:55,2,True
+316,Ronstring,Vegan,Lower East Side,Expensive,11:08,0:59,1,False
+317,Greenlam,Japanese,East Village,Medium,8:59,1:16,1,False
+318,Wrapsafe,Chinese,Lower East Side,Expensive,9:46,0:48,1,True
+319,Tampflex,Indian,Hell's Kitchen,Expensive,8:05,1:14,2,True
+320,Otcom,Fast Food,Manhattan,Medium,11:22,1:44,1,True
+321,Tempsoft,Fast Food,Brooklyn,Cheap,9:51,1:59,5,False
+322,Y-Solowarm,Korean,Harlem,Expensive,9:10,0:20,3,False
+323,Duobam,Italian,Hell's Kitchen,Expensive,9:34,1:40,5,True
+324,Quo Lux,Japanese,Brooklyn,Expensive,8:14,1:10,5,False
+325,Regrant,Japanese,Brooklyn,Cheap,9:38,1:04,5,True
+326,Bitchip,Korean,Brooklyn,Medium,8:59,1:20,4,False
+327,Transcof,Fast Food,Hell's Kitchen,Cheap,10:54,0:32,3,False
+328,Holdlamis,Mexican,Brooklyn,Cheap,12:16,1:20,5,True
+329,Andalax,Russian,Bronx,Expensive,12:53,1:05,4,False
+330,Kanlam,Fast Food,Bronx,Cheap,11:07,0:07,5,True
+331,Sonair,Kazakh,Lower East Side,Cheap,10:24,1:36,1,False
+332,Alpha,Indian,Harlem,Expensive,11:29,0:20,4,True
+333,Andalax,Russian,Brooklyn,Expensive,8:41,1:38,1,False
+334,Zontrax,Italian,Bronx,Cheap,10:07,1:44,1,True
+335,Duobam,Japanese,Brooklyn,Expensive,10:10,1:21,4,False
+336,Daltfresh,Fast Food,Hell's Kitchen,Medium,11:04,1:14,2,False
+337,Holdlamis,Fast Food,Brooklyn,Medium,12:40,1:30,2,True
+338,Hatity,Vegan,Hell's Kitchen,Expensive,12:08,1:38,3,True
+339,Tin,Kazakh,Brooklyn,Cheap,11:35,0:11,5,False
+340,Domainer,Fast Food,Lower East Side,Expensive,9:47,0:14,3,False
+341,Trippledex,Vegan,Hell's Kitchen,Medium,11:39,0:34,4,True
+342,Viva,Russian,Harlem,Medium,9:43,0:27,4,False
+343,Lotstring,Italian,Bronx,Cheap,11:33,0:05,3,False
+344,Konklux,Kazakh,Hell's Kitchen,Expensive,8:45,0:42,2,False
+345,Ronstring,Mexican,Hell's Kitchen,Cheap,10:13,1:25,2,True
+346,Ventosanzap,Russian,Manhattan,Expensive,10:19,1:04,4,False
+347,Tresom,Japanese,Hell's Kitchen,Expensive,8:54,1:46,2,True
+348,Lotstring,Fast Food,Brooklyn,Medium,8:15,1:33,1,True
+349,Tresom,Chinese,Lower East Side,Expensive,9:37,1:46,1,True
+350,Tres-Zap,Indian,Lower East Side,Expensive,12:42,0:12,4,True
+351,Hatity,Fast Food,Manhattan,Cheap,10:10,1:20,3,False
+352,Otcom,Chinese,Harlem,Cheap,9:52,0:02,4,True
+353,Subin,Vegan,Bronx,Cheap,12:59,0:57,2,False
+354,Prodder,Japanese,Brooklyn,Expensive,8:49,1:13,3,True
+355,Treeflex,Chinese,Manhattan,Medium,8:26,1:38,1,True
+356,Bytecard,Russian,Lower East Side,Cheap,12:48,0:25,3,True
+357,Treeflex,Japanese,Manhattan,Cheap,10:09,1:49,3,False
+358,Vagram,Vegan,Manhattan,Cheap,10:00,1:24,1,False
+359,Viva,Chinese,Harlem,Expensive,10:00,1:35,5,False
+360,Mat Lam Tam,Italian,Brooklyn,Cheap,10:07,0:41,2,True
+361,Tin,Korean,Bronx,Cheap,8:43,0:04,3,True
+362,Namfix,Kazakh,Lower East Side,Expensive,9:32,1:09,4,False
+363,It,Italian,Hell's Kitchen,Cheap,9:06,1:06,1,False
+364,Sonsing,Japanese,East Village,Medium,12:15,1:46,3,False
+365,Cardguard,Vegan,Manhattan,Cheap,12:05,1:32,4,False
+366,Solarbreeze,Korean,Bronx,Expensive,11:30,0:24,5,True
+367,Asoka,Mexican,Lower East Side,Medium,11:02,0:08,5,True
+368,Konklux,Mexican,Bronx,Cheap,12:25,0:03,1,True
+369,Hatity,Vegan,Brooklyn,Expensive,8:34,0:35,3,True
+370,Solarbreeze,Mexican,Bronx,Expensive,8:11,1:01,3,True
+371,Tresom,Fast Food,Manhattan,Cheap,11:10,0:02,2,False
+372,It,Kazakh,East Village,Expensive,10:13,1:55,5,True
+373,Stronghold,Kazakh,Bronx,Medium,10:56,0:13,1,True
+374,Asoka,Mexican,Bronx,Expensive,12:10,0:31,2,True
+375,Domainer,Vegan,East Village,Expensive,12:03,1:27,2,True
+376,Zathin,Indian,Manhattan,Cheap,10:40,0:42,4,False
+377,Temp,Kazakh,Hell's Kitchen,Expensive,9:43,0:59,2,False
+378,Fixflex,Italian,East Village,Cheap,10:09,1:14,2,True
+379,Job,Vegan,Manhattan,Cheap,10:13,1:51,4,False
+380,Vagram,Japanese,Hell's Kitchen,Cheap,9:48,0:32,5,True
+381,Voyatouch,Kazakh,Manhattan,Expensive,12:41,1:08,3,True
+382,Bytecard,Fast Food,Bronx,Cheap,8:34,0:37,3,False
+383,Bitchip,Fast Food,Brooklyn,Medium,8:05,0:15,4,True
+384,Tresom,Chinese,Bronx,Cheap,8:17,0:59,4,True
+385,Y-Solowarm,Japanese,Harlem,Expensive,11:21,0:19,1,True
+386,Voyatouch,Fast Food,Lower East Side,Expensive,10:53,0:00,3,True
+387,Hatity,Korean,Bronx,Medium,11:13,1:27,3,False
+388,Hatity,Mexican,Lower East Side,Cheap,10:20,1:35,5,False
+389,Cardify,Korean,Hell's Kitchen,Medium,9:20,1:53,2,False
+390,Matsoft,Mexican,Brooklyn,Expensive,10:24,1:23,4,False
+391,Trippledex,Japanese,Lower East Side,Expensive,10:04,0:49,1,False
+392,Zontrax,Russian,Manhattan,Medium,10:52,0:55,4,False
+393,Cardguard,Vegan,East Village,Medium,9:05,0:30,5,True
+394,Bytecard,Russian,Harlem,Medium,8:16,1:35,3,False
+395,Home Ing,Italian,Manhattan,Expensive,11:25,1:25,5,False
+396,Konklux,Vegan,Harlem,Cheap,12:08,0:08,1,True
+397,Veribet,Japanese,Manhattan,Cheap,9:59,1:31,3,False
+398,Matsoft,Fast Food,Lower East Side,Expensive,10:18,0:48,1,True
+399,Konklux,Chinese,Harlem,Cheap,9:37,0:37,2,False
+400,Zaam-Dox,Chinese,Harlem,Cheap,10:44,1:03,4,False
+401,Sonair,Vegan,Bronx,Medium,8:34,1:54,5,True
+402,Flexidy,Kazakh,Brooklyn,Cheap,9:32,0:36,1,True
+403,Treeflex,Indian,Hell's Kitchen,Medium,10:33,1:41,4,False
+404,Alphazap,Mexican,Harlem,Cheap,8:01,0:53,2,True
+405,Zontrax,Fast Food,East Village,Expensive,11:09,1:27,5,True
+406,Sub-Ex,Mexican,East Village,Medium,11:57,1:42,4,False
+407,Cookley,Italian,Bronx,Cheap,10:12,0:27,3,False
+408,Cardify,Russian,Hell's Kitchen,Cheap,8:46,0:41,2,False
+409,It,Japanese,Manhattan,Cheap,11:19,0:54,2,False
+410,Viva,Chinese,East Village,Cheap,9:35,0:03,4,False
+411,Keylex,Japanese,Harlem,Medium,11:34,0:07,5,True
+412,Alpha,Fast Food,Manhattan,Cheap,11:08,0:55,3,True
+413,Domainer,Kazakh,Brooklyn,Expensive,11:52,0:53,4,True
+414,Daltfresh,Mexican,Lower East Side,Medium,9:13,0:24,3,True
+415,Tresom,Italian,Manhattan,Cheap,9:18,0:43,3,False
+416,Opela,Mexican,Bronx,Cheap,9:29,0:25,5,True
+417,Zoolab,Korean,Bronx,Medium,10:51,0:16,3,False
+418,Biodex,Mexican,Brooklyn,Medium,9:04,1:26,2,False
+419,Vagram,Indian,East Village,Medium,12:39,0:21,1,False
+420,Home Ing,Russian,Bronx,Medium,8:42,1:06,2,True
+421,Home Ing,Chinese,Harlem,Expensive,9:26,1:28,5,False
+422,Ventosanzap,Italian,Harlem,Cheap,12:37,0:10,1,True
+423,Zoolab,Italian,Manhattan,Expensive,10:55,0:09,3,True
+424,Asoka,Vegan,Bronx,Medium,9:02,0:31,2,False
+425,Job,Korean,Brooklyn,Medium,9:07,1:56,3,False
+426,Tampflex,Mexican,Brooklyn,Expensive,9:40,0:56,2,True
+427,Andalax,Vegan,Manhattan,Cheap,8:53,1:47,1,True
+428,Bitwolf,Russian,Brooklyn,Medium,12:39,0:16,2,False
+429,Home Ing,Korean,East Village,Medium,8:42,0:29,1,False
+430,Tempsoft,Japanese,Lower East Side,Expensive,11:44,1:13,1,True
+431,Quo Lux,Indian,East Village,Medium,8:31,0:52,4,False
+432,Ventosanzap,Fast Food,Lower East Side,Cheap,10:20,1:32,1,True
+433,Veribet,Fast Food,Lower East Side,Cheap,10:49,1:06,1,True
+434,Asoka,Mexican,Harlem,Expensive,8:17,0:06,5,False
+435,Solarbreeze,Indian,East Village,Cheap,10:30,1:14,3,False
+436,Transcof,Indian,Brooklyn,Medium,9:21,0:39,4,False
+437,Fix San,Russian,Bronx,Medium,10:17,1:42,4,True
+438,Zoolab,Chinese,Lower East Side,Expensive,11:30,0:24,4,False
+439,Greenlam,Mexican,Bronx,Cheap,8:05,1:52,5,False
+440,Flowdesk,Japanese,Brooklyn,Cheap,9:12,1:14,2,False
+441,Zamit,Japanese,East Village,Expensive,8:03,0:52,3,False
+442,Duobam,Mexican,Harlem,Medium,8:11,0:29,4,True
+443,Zaam-Dox,Fast Food,East Village,Cheap,10:53,0:46,1,True
+444,Andalax,Japanese,Hell's Kitchen,Expensive,9:47,1:21,1,True
+445,Holdlamis,Korean,Lower East Side,Cheap,12:15,1:58,2,True
+446,Stronghold,Japanese,Brooklyn,Medium,11:09,1:10,2,False
+447,Span,Vegan,Brooklyn,Expensive,11:36,1:17,1,True
+448,Latlux,Kazakh,Bronx,Cheap,8:22,0:06,5,True
+449,Voyatouch,Japanese,Brooklyn,Expensive,12:03,1:39,2,False
+450,Bamity,Vegan,East Village,Cheap,12:42,1:37,1,False
+451,Zaam-Dox,Korean,Manhattan,Cheap,12:17,1:44,1,False
+452,Redhold,Japanese,Lower East Side,Medium,8:30,1:48,2,False
+453,Subin,Indian,Lower East Side,Cheap,10:42,1:25,3,True
+454,Holdlamis,Kazakh,Harlem,Cheap,12:46,1:51,1,False
+455,Lotlux,Italian,Manhattan,Expensive,8:04,0:24,1,False
+456,Konklab,Japanese,Brooklyn,Expensive,10:13,1:32,3,True
+457,Vagram,Italian,Bronx,Expensive,9:09,0:47,2,True
+458,Stronghold,Kazakh,Manhattan,Expensive,10:18,1:33,1,True
+459,Y-Solowarm,Russian,Hell's Kitchen,Cheap,10:03,1:58,3,False
+460,Duobam,Indian,Brooklyn,Cheap,9:04,0:23,4,False
+461,Y-Solowarm,Fast Food,Lower East Side,Expensive,10:53,0:51,5,True
+462,Cardguard,Korean,East Village,Medium,8:43,1:51,2,True
+463,Tresom,Vegan,Harlem,Expensive,8:55,0:08,4,True
+464,Voyatouch,Mexican,Lower East Side,Medium,12:54,0:35,3,False
+465,Alphazap,Mexican,Manhattan,Medium,11:11,1:59,5,True
+466,Stronghold,Korean,Bronx,Cheap,10:37,1:17,5,False
+467,Ventosanzap,Italian,Bronx,Cheap,9:54,0:27,1,False
+468,Y-Solowarm,Chinese,Brooklyn,Cheap,8:24,1:18,2,False
+469,Redhold,Russian,Brooklyn,Expensive,11:54,0:11,2,True
+470,Sonsing,Japanese,East Village,Cheap,11:52,1:47,5,True
+471,Daltfresh,Chinese,Lower East Side,Expensive,11:27,0:45,2,False
+472,Biodex,Fast Food,Harlem,Expensive,9:12,1:36,3,False
+473,Lotlux,Japanese,Hell's Kitchen,Cheap,8:02,0:39,2,True
+474,Sonair,Fast Food,Bronx,Medium,10:12,0:30,4,False
+475,Viva,Korean,Lower East Side,Expensive,8:14,0:40,4,True
+476,Zathin,Kazakh,Bronx,Cheap,9:07,1:45,3,True
+477,Voltsillam,Mexican,Manhattan,Medium,8:02,1:18,5,True
+478,Fintone,Chinese,Lower East Side,Cheap,11:22,0:18,4,False
+479,Alphazap,Mexican,Harlem,Cheap,8:39,1:58,4,False
+480,Prodder,Fast Food,Bronx,Medium,8:35,0:20,3,False
+481,Sonsing,Indian,Manhattan,Expensive,11:44,1:56,2,True
+482,Otcom,Korean,Lower East Side,Cheap,11:55,0:19,3,True
+483,Vagram,Indian,Manhattan,Medium,12:25,0:35,3,False
+484,Sub-Ex,Mexican,Hell's Kitchen,Expensive,10:31,1:06,1,True
+485,Zoolab,Indian,Bronx,Medium,8:42,1:07,1,False
+486,Tresom,Mexican,Manhattan,Expensive,11:46,1:51,1,True
+487,Regrant,Indian,Manhattan,Cheap,12:51,0:29,5,False
+488,Cardify,Japanese,East Village,Medium,10:23,1:38,2,True
+489,Voyatouch,Italian,Manhattan,Cheap,11:32,0:10,4,True
+490,Lotlux,Korean,Brooklyn,Expensive,10:52,1:16,4,False
+491,Overhold,Vegan,East Village,Cheap,11:49,0:17,3,False
+492,Transcof,Italian,Lower East Side,Medium,12:25,0:04,4,True
+493,Asoka,Fast Food,Harlem,Medium,10:01,0:20,4,True
+494,Temp,Russian,Brooklyn,Expensive,11:07,0:35,1,True
+495,Kanlam,Kazakh,Brooklyn,Medium,8:51,1:41,4,False
+496,Tresom,Mexican,Manhattan,Cheap,11:13,1:30,4,True
+497,Zontrax,Chinese,Harlem,Medium,9:07,0:12,3,True
+498,Solarbreeze,Indian,East Village,Cheap,10:37,0:51,1,False
+499,Prodder,Japanese,Harlem,Medium,9:03,0:29,1,True
+500,Tin,Korean,Hell's Kitchen,Cheap,8:38,1:06,5,True
+501,Span,Fast Food,Brooklyn,Cheap,9:32,1:01,3,False
+502,Veribet,Italian,Hell's Kitchen,Expensive,8:54,1:50,4,False
+503,Cardguard,Fast Food,Bronx,Medium,8:13,1:18,5,False
+504,Otcom,Mexican,Brooklyn,Medium,10:09,1:59,1,True
+505,Rank,Korean,Hell's Kitchen,Medium,9:03,0:47,4,False
+506,Zoolab,Italian,Brooklyn,Medium,8:35,0:14,1,False
+507,Konklab,Japanese,Hell's Kitchen,Expensive,11:42,1:04,4,False
+508,Otcom,Vegan,Brooklyn,Expensive,11:42,1:28,4,True
+509,Biodex,Italian,Brooklyn,Cheap,10:22,1:00,2,True
+510,Sonsing,Vegan,East Village,Medium,8:59,0:08,3,False
+511,Sonsing,Indian,Hell's Kitchen,Expensive,11:20,0:01,3,False
+512,Prodder,Italian,Harlem,Medium,10:51,0:29,3,True
+513,Stronghold,Russian,Harlem,Expensive,9:41,0:51,2,False
+514,Solarbreeze,Indian,Harlem,Medium,12:48,1:07,2,True
+515,Matsoft,Fast Food,Bronx,Medium,12:19,0:04,1,False
+516,Fixflex,Kazakh,Lower East Side,Medium,8:53,1:13,1,False
+517,Y-Solowarm,Korean,Hell's Kitchen,Cheap,9:07,0:00,3,False
+518,Redhold,Fast Food,Bronx,Cheap,11:22,0:03,3,False
+519,Stim,Mexican,Brooklyn,Expensive,9:39,1:21,1,False
+520,Alphazap,Korean,Brooklyn,Expensive,10:23,1:00,2,True
+521,Zamit,Italian,Brooklyn,Medium,10:03,0:24,4,True
+522,Alpha,Korean,Bronx,Medium,12:59,1:42,3,True
+523,Matsoft,Kazakh,East Village,Cheap,8:09,1:34,2,True
+524,Vagram,Mexican,Bronx,Medium,9:57,0:54,2,True
+525,Zontrax,Indian,Harlem,Cheap,9:36,0:49,5,True
+526,Ronstring,Korean,Lower East Side,Expensive,10:53,1:18,4,False
+527,Holdlamis,Fast Food,East Village,Medium,11:33,1:53,1,False
+528,Tres-Zap,Kazakh,Lower East Side,Expensive,11:28,0:10,2,False
+529,Aerified,Chinese,Bronx,Cheap,12:14,0:03,1,True
+530,Stronghold,Russian,Manhattan,Expensive,12:37,1:11,2,True
+531,Gembucket,Indian,Lower East Side,Cheap,8:19,0:16,3,True
+532,Stringtough,Russian,Manhattan,Medium,9:18,0:15,1,True
+533,Veribet,Fast Food,Hell's Kitchen,Medium,10:38,0:51,4,False
+534,Y-Solowarm,Chinese,Hell's Kitchen,Medium,11:10,1:10,1,False
+535,Konklux,Chinese,Bronx,Cheap,11:52,0:05,2,False
+536,Fixflex,Indian,Lower East Side,Expensive,8:32,0:53,1,True
+537,Regrant,Korean,Manhattan,Expensive,9:50,1:04,4,False
+538,Redhold,Mexican,Lower East Side,Expensive,10:33,1:58,3,True
+539,Quo Lux,Italian,East Village,Medium,9:32,0:21,5,True
+540,Alpha,Indian,East Village,Cheap,10:20,1:18,3,False
+541,Konklux,Japanese,East Village,Cheap,10:20,1:11,4,True
+542,Domainer,Italian,East Village,Cheap,11:05,1:41,1,True
+543,Sonsing,Japanese,Brooklyn,Cheap,12:33,1:46,4,True
+544,Cookley,Vegan,Harlem,Expensive,12:14,1:56,3,False
+545,Fintone,Korean,East Village,Cheap,12:48,1:38,2,False
+546,Zoolab,Vegan,East Village,Medium,9:41,0:27,4,False
+547,Sub-Ex,Russian,Bronx,Medium,12:35,0:00,3,False
+548,Otcom,Chinese,Bronx,Cheap,8:15,1:28,4,False
+549,Ronstring,Mexican,Brooklyn,Expensive,12:04,0:54,3,False
+550,Alpha,Indian,Hell's Kitchen,Medium,10:27,0:31,5,True
+551,Tresom,Kazakh,Hell's Kitchen,Cheap,10:43,1:34,2,False
+552,Namfix,Japanese,Manhattan,Cheap,8:30,0:46,3,True
+553,Latlux,Japanese,Harlem,Expensive,9:41,1:07,2,False
+554,Ventosanzap,Russian,Harlem,Cheap,9:35,0:53,3,True
+555,Solarbreeze,Italian,Hell's Kitchen,Cheap,12:58,0:58,4,True
+556,Vagram,Italian,Hell's Kitchen,Medium,9:59,1:05,3,False
+557,It,Vegan,Bronx,Medium,11:19,1:04,4,False
+558,Trippledex,Kazakh,Lower East Side,Expensive,9:35,1:52,1,True
+559,Regrant,Chinese,Harlem,Expensive,8:50,0:54,3,False
+560,Viva,Russian,Hell's Kitchen,Cheap,12:32,1:00,2,False
+561,It,Kazakh,Manhattan,Expensive,9:31,0:47,3,False
+562,Treeflex,Kazakh,Lower East Side,Medium,12:44,0:23,3,False
+563,Voltsillam,Korean,East Village,Medium,9:13,1:15,3,False
+564,Konklux,Kazakh,Bronx,Cheap,11:53,0:23,5,False
+565,Veribet,Chinese,Manhattan,Cheap,8:22,1:45,4,False
+566,Bigtax,Japanese,Brooklyn,Cheap,11:15,1:27,1,True
+567,Tres-Zap,Korean,Brooklyn,Expensive,12:44,0:32,4,False
+568,Flowdesk,Kazakh,Hell's Kitchen,Cheap,10:15,0:49,5,True
+569,Stim,Japanese,East Village,Medium,9:01,1:45,4,False
+570,Konklux,Indian,Brooklyn,Expensive,11:53,1:08,1,True
+571,Flexidy,Italian,Harlem,Cheap,12:54,1:46,2,False
+572,It,Fast Food,East Village,Cheap,9:29,0:57,5,False
+573,Wrapsafe,Kazakh,Harlem,Expensive,11:53,1:23,5,False
+574,It,Mexican,Harlem,Expensive,9:53,1:47,3,False
+575,Konklux,Italian,East Village,Expensive,9:18,1:59,2,True
+576,Sonsing,Italian,Manhattan,Expensive,9:33,1:10,1,True
+577,Cardify,Mexican,East Village,Expensive,9:31,0:12,3,False
+578,Flexidy,Mexican,Hell's Kitchen,Medium,10:15,0:43,4,True
+579,Home Ing,Korean,Harlem,Medium,9:05,0:58,5,False
+580,Y-Solowarm,Korean,East Village,Expensive,10:39,1:44,3,False
+581,Cardify,Kazakh,Lower East Side,Cheap,11:06,1:48,2,True
+582,Fixflex,Vegan,Bronx,Medium,12:21,0:12,5,False
+583,Span,Fast Food,Manhattan,Medium,8:07,0:05,2,True
+584,Daltfresh,Korean,Bronx,Expensive,9:32,0:24,2,True
+585,Latlux,Chinese,Brooklyn,Cheap,10:19,0:21,4,False
+586,Voyatouch,Italian,Bronx,Cheap,11:24,0:08,5,False
+587,Tres-Zap,Fast Food,Bronx,Medium,9:28,1:05,2,False
+588,Zoolab,Italian,Harlem,Medium,12:39,0:10,3,True
+589,Flowdesk,Indian,Bronx,Expensive,8:06,0:28,1,True
+590,Bitwolf,Korean,Manhattan,Expensive,8:29,1:09,5,False
+591,Konklab,Vegan,Bronx,Cheap,8:07,0:13,4,False
+592,Regrant,Indian,Manhattan,Medium,10:05,0:55,3,False
+593,Temp,Italian,Lower East Side,Expensive,8:37,1:14,1,False
+594,Tres-Zap,Chinese,Brooklyn,Cheap,12:11,0:22,1,True
+595,Tempsoft,Vegan,Manhattan,Expensive,11:12,1:28,2,False
+596,Stringtough,Japanese,Lower East Side,Cheap,9:19,0:19,2,False
+597,Overhold,Chinese,Brooklyn,Expensive,10:08,1:34,2,True
+598,Bytecard,Japanese,Harlem,Medium,8:55,1:15,1,True
+599,Cardguard,Mexican,Lower East Side,Medium,11:14,1:50,5,False
+600,Ronstring,Japanese,Harlem,Cheap,12:43,1:18,2,False
+601,Fixflex,Fast Food,Manhattan,Medium,8:09,0:16,1,True
+602,Hatity,Kazakh,Lower East Side,Medium,11:06,0:09,3,False
+603,Vagram,Mexican,East Village,Cheap,8:50,1:46,3,True
+604,Lotlux,Vegan,Lower East Side,Cheap,12:37,0:44,2,False
+605,Toughjoyfax,Japanese,Lower East Side,Cheap,11:55,1:49,1,False
+606,Tres-Zap,Russian,Brooklyn,Cheap,9:14,1:10,5,False
+607,Toughjoyfax,Italian,Bronx,Expensive,9:36,1:45,4,True
+608,Cardguard,Fast Food,Bronx,Expensive,11:48,1:18,2,True
+609,Flowdesk,Russian,Lower East Side,Cheap,11:08,1:54,2,True
+610,Rank,Kazakh,East Village,Cheap,12:01,1:57,2,True
+611,Lotstring,Chinese,East Village,Expensive,10:42,0:33,4,False
+612,Alpha,Russian,Hell's Kitchen,Expensive,9:24,0:32,3,False
+613,Zathin,Indian,East Village,Medium,12:24,0:01,4,False
+614,Wrapsafe,Indian,Harlem,Expensive,8:30,0:49,4,True
+615,Gembucket,Kazakh,Bronx,Cheap,12:03,0:54,3,False
+616,Y-find,Fast Food,Lower East Side,Expensive,10:07,0:37,3,False
+617,Alpha,Korean,Brooklyn,Cheap,12:32,1:00,1,True
+618,Span,Fast Food,Hell's Kitchen,Expensive,11:33,1:29,3,False
+619,Tin,Indian,Harlem,Medium,9:03,0:18,4,True
+620,Cookley,Mexican,East Village,Medium,9:40,0:55,3,False
+621,Viva,Italian,Brooklyn,Expensive,12:02,1:27,2,False
+622,Mat Lam Tam,Chinese,Bronx,Expensive,8:52,1:07,2,True
+623,Biodex,Indian,Hell's Kitchen,Medium,8:10,1:13,1,True
+624,Zontrax,Russian,Hell's Kitchen,Medium,10:14,0:18,2,False
+625,Wrapsafe,Korean,East Village,Expensive,12:57,1:16,3,True
+626,Pannier,Chinese,Hell's Kitchen,Expensive,9:52,0:44,1,True
+627,Fixflex,Mexican,Hell's Kitchen,Cheap,12:43,0:30,5,False
+628,Transcof,Mexican,Harlem,Medium,10:52,1:47,4,True
+629,Voyatouch,Vegan,Brooklyn,Medium,10:04,1:24,2,False
+630,Bitchip,Korean,Brooklyn,Cheap,8:25,0:50,3,True
+631,Zaam-Dox,Fast Food,Brooklyn,Medium,11:39,1:08,5,True
+632,Fix San,Fast Food,Manhattan,Cheap,12:26,0:55,5,True
+633,Ventosanzap,Russian,Brooklyn,Expensive,10:30,1:10,3,True
+634,Bitchip,Korean,Hell's Kitchen,Expensive,12:32,0:15,1,True
+635,Bamity,Russian,East Village,Medium,12:21,0:00,5,False
+636,Veribet,Russian,Hell's Kitchen,Medium,12:51,0:08,5,True
+637,Cookley,Kazakh,East Village,Medium,9:30,1:45,2,True
+638,Daltfresh,Indian,East Village,Cheap,10:29,0:16,2,False
+639,Pannier,Mexican,Harlem,Medium,8:21,0:56,2,True
+640,Zathin,Chinese,East Village,Medium,8:18,1:28,1,True
+641,Home Ing,Korean,East Village,Cheap,8:05,1:21,2,True
+642,Opela,Kazakh,Brooklyn,Cheap,12:14,0:44,1,False
+643,Viva,Vegan,Brooklyn,Medium,12:45,1:45,3,False
+644,Namfix,Mexican,Lower East Side,Expensive,8:22,0:40,5,True
+645,Asoka,Korean,Hell's Kitchen,Medium,10:44,0:16,5,False
+646,Prodder,Italian,Brooklyn,Medium,8:39,0:06,1,False
+647,Transcof,Vegan,East Village,Medium,12:58,0:15,1,False
+648,Tempsoft,Fast Food,Hell's Kitchen,Cheap,9:01,0:43,5,False
+649,Latlux,Russian,Brooklyn,Medium,11:37,1:19,5,False
+650,Hatity,Russian,Brooklyn,Expensive,11:50,1:03,1,False
+651,Latlux,Kazakh,Hell's Kitchen,Expensive,10:19,0:28,1,True
+652,Andalax,Russian,Harlem,Cheap,12:39,0:02,2,True
+653,Asoka,Chinese,Hell's Kitchen,Cheap,11:03,1:41,5,False
+654,Pannier,Chinese,Bronx,Expensive,8:47,0:28,2,False
+655,Mat Lam Tam,Fast Food,Lower East Side,Medium,10:20,1:51,5,True
+656,It,Fast Food,Harlem,Expensive,10:35,1:14,1,True
+657,Cardify,Indian,Brooklyn,Cheap,8:25,0:27,5,True
+658,Bitchip,Fast Food,Manhattan,Medium,11:43,0:19,3,True
+659,Redhold,Chinese,Hell's Kitchen,Expensive,8:07,1:47,5,False
+660,Bigtax,Russian,Bronx,Medium,12:27,1:38,1,True
+661,Y-Solowarm,Fast Food,Lower East Side,Cheap,10:09,0:18,5,False
+662,Prodder,Korean,Manhattan,Cheap,9:01,1:28,1,False
+663,Holdlamis,Japanese,Manhattan,Medium,12:14,0:10,5,True
+664,Pannier,Indian,Harlem,Medium,9:58,0:21,4,True
+665,Cookley,Kazakh,East Village,Cheap,10:44,1:50,3,True
+666,Sonsing,Italian,Bronx,Cheap,9:06,1:04,5,False
+667,Cardify,Kazakh,East Village,Cheap,8:25,0:10,3,True
+668,Zontrax,Japanese,East Village,Expensive,11:19,0:09,5,False
+669,Tampflex,Fast Food,Hell's Kitchen,Medium,10:14,0:53,4,True
+670,Bitchip,Chinese,Manhattan,Cheap,10:12,0:15,5,True
+671,Sub-Ex,Italian,Hell's Kitchen,Cheap,10:21,0:20,1,False
+672,Matsoft,Fast Food,East Village,Cheap,11:41,1:51,2,False
+673,Bitchip,Chinese,Brooklyn,Expensive,10:21,1:41,2,False
+674,Hatity,Vegan,Brooklyn,Medium,10:39,0:10,2,False
+675,Flowdesk,Indian,Harlem,Medium,9:07,1:05,3,False
+676,Flexidy,Chinese,East Village,Medium,10:26,1:08,1,True
+677,Y-find,Vegan,Bronx,Expensive,8:08,0:53,4,False
+678,Trippledex,Kazakh,Lower East Side,Medium,12:44,1:54,3,True
+679,Viva,Fast Food,Lower East Side,Cheap,11:41,1:45,3,True
+680,Greenlam,Mexican,Brooklyn,Expensive,11:19,1:12,1,True
+681,Daltfresh,Italian,Hell's Kitchen,Expensive,9:18,1:28,2,True
+682,Bigtax,Indian,Hell's Kitchen,Medium,9:19,1:20,3,True
+683,Sonsing,Japanese,Hell's Kitchen,Medium,9:35,1:15,5,True
+684,Overhold,Kazakh,Hell's Kitchen,Cheap,11:45,0:24,5,True
+685,Viva,Kazakh,Brooklyn,Expensive,11:08,0:56,3,True
+686,Rank,Italian,Lower East Side,Cheap,8:47,1:06,5,True
+687,Viva,Fast Food,Harlem,Expensive,8:22,0:42,3,False
+688,Flowdesk,Fast Food,Hell's Kitchen,Cheap,8:12,0:08,2,False
+689,Tres-Zap,Japanese,Harlem,Expensive,12:42,1:00,4,False
+690,Bytecard,Japanese,Manhattan,Expensive,11:59,1:20,1,False
+691,Zontrax,Korean,Hell's Kitchen,Medium,12:20,1:36,3,True
+692,Mat Lam Tam,Vegan,Lower East Side,Medium,9:14,0:53,1,False
+693,Tres-Zap,Indian,East Village,Medium,10:30,1:16,3,False
+694,Duobam,Chinese,Bronx,Cheap,10:49,0:48,5,False
+695,Matsoft,Italian,Lower East Side,Expensive,11:52,1:21,5,False
+696,Zamit,Chinese,East Village,Medium,9:05,0:05,2,False
+697,Konklux,Vegan,Harlem,Medium,8:17,0:23,4,True
+698,Solarbreeze,Chinese,Bronx,Medium,10:38,0:42,3,False
+699,Konklux,Indian,Brooklyn,Medium,9:37,0:04,3,True
+700,Tampflex,Chinese,Bronx,Medium,10:43,1:48,4,True
+701,Mat Lam Tam,Mexican,Harlem,Expensive,12:29,1:50,3,False
+702,Vagram,Fast Food,Manhattan,Medium,10:16,0:46,1,True
+703,Aerified,Japanese,Manhattan,Cheap,11:20,1:55,4,True
+704,Sub-Ex,Italian,Manhattan,Expensive,8:49,1:12,2,True
+705,Tempsoft,Indian,Lower East Side,Expensive,12:28,0:21,1,True
+706,Tres-Zap,Chinese,Hell's Kitchen,Expensive,8:11,1:39,2,True
+707,Bigtax,Vegan,Manhattan,Medium,8:21,1:32,2,True
+708,Trippledex,Korean,Harlem,Cheap,11:50,1:02,1,False
+709,Tampflex,Russian,Manhattan,Medium,11:07,1:18,3,False
+710,Keylex,Vegan,Brooklyn,Medium,11:00,1:00,5,False
+711,Viva,Kazakh,Lower East Side,Medium,10:37,0:01,5,True
+712,Job,Vegan,Hell's Kitchen,Medium,8:59,1:54,1,True
+713,Zoolab,Kazakh,Bronx,Medium,8:12,0:06,5,False
+714,Holdlamis,Chinese,Bronx,Cheap,12:15,1:30,3,False
+715,Bitchip,Japanese,Harlem,Expensive,11:37,0:34,4,False
+716,Zamit,Russian,Lower East Side,Medium,9:15,0:53,4,True
+717,Subin,Kazakh,Harlem,Cheap,11:10,1:49,4,True
+718,Bitwolf,Korean,Brooklyn,Cheap,9:11,0:32,4,False
+719,Tin,Italian,Hell's Kitchen,Expensive,11:19,1:04,2,True
+720,Duobam,Japanese,Hell's Kitchen,Expensive,10:00,1:58,4,True
+721,Latlux,Mexican,Harlem,Medium,11:09,1:11,4,True
+722,Hatity,Vegan,Harlem,Expensive,11:21,0:58,2,True
+723,Tampflex,Fast Food,Harlem,Expensive,10:06,0:14,2,True
+724,Voyatouch,Korean,Bronx,Expensive,12:59,0:08,4,False
+725,Alpha,Italian,Hell's Kitchen,Expensive,11:57,0:32,2,False
+726,Zoolab,Vegan,Harlem,Cheap,11:24,0:51,3,False
+727,Bigtax,Mexican,Harlem,Cheap,10:48,0:54,1,False
+728,Vagram,Chinese,Harlem,Medium,9:28,0:48,2,True
+729,Cardguard,Chinese,Bronx,Medium,8:02,0:41,4,True
+730,Gembucket,Indian,East Village,Medium,8:27,1:14,2,False
+731,Sub-Ex,Italian,East Village,Expensive,11:25,0:18,1,True
+732,Tres-Zap,Chinese,Manhattan,Medium,10:39,0:46,5,False
+733,Regrant,Italian,Brooklyn,Cheap,9:30,0:58,2,True
+734,Transcof,Japanese,Manhattan,Medium,11:09,0:33,3,False
+735,Temp,Japanese,Bronx,Cheap,12:56,0:53,2,True
+736,Asoka,Japanese,Bronx,Cheap,12:46,1:04,2,False
+737,Regrant,Russian,Brooklyn,Expensive,12:40,1:20,2,False
+738,Bamity,Indian,East Village,Medium,10:04,1:19,2,True
+739,Greenlam,Russian,Lower East Side,Medium,9:12,1:20,1,True
+740,Greenlam,Vegan,Hell's Kitchen,Expensive,9:55,1:59,5,False
+741,Fix San,Korean,Bronx,Expensive,8:06,0:08,2,True
+742,Tin,Fast Food,Bronx,Medium,9:11,0:09,5,False
+743,Mat Lam Tam,Russian,Brooklyn,Expensive,12:40,0:17,3,False
+744,Bigtax,Mexican,Manhattan,Cheap,12:23,1:31,3,True
+745,Bytecard,Korean,Hell's Kitchen,Medium,12:00,1:04,3,False
+746,Redhold,Mexican,Hell's Kitchen,Medium,8:13,1:33,2,True
+747,Veribet,Vegan,Hell's Kitchen,Medium,10:54,0:08,4,False
+748,Sub-Ex,Vegan,Bronx,Medium,11:56,0:59,3,False
+749,Biodex,Russian,Bronx,Medium,11:31,1:20,3,False
+750,Vagram,Fast Food,Manhattan,Cheap,8:56,0:57,5,False
+751,Namfix,Korean,Harlem,Cheap,12:29,0:54,4,True
+752,Fixflex,Korean,Bronx,Expensive,8:23,0:11,4,False
+753,Ventosanzap,Italian,Harlem,Cheap,12:09,1:34,2,False
+754,Redhold,Japanese,Brooklyn,Medium,9:07,1:32,2,True
+755,Fintone,Mexican,Harlem,Medium,9:41,0:47,4,False
+756,Andalax,Chinese,Brooklyn,Cheap,9:21,0:20,1,False
+757,Subin,Fast Food,Manhattan,Cheap,12:25,1:58,1,False
+758,Otcom,Fast Food,Hell's Kitchen,Cheap,11:01,1:33,1,False
+759,Alphazap,Russian,Lower East Side,Medium,9:06,1:47,3,True
+760,Flowdesk,Italian,Hell's Kitchen,Expensive,9:38,1:41,2,True
+761,It,Vegan,East Village,Expensive,8:19,0:06,3,True
+762,Holdlamis,Japanese,Lower East Side,Expensive,9:42,0:40,3,False
+763,Holdlamis,Chinese,Manhattan,Medium,12:27,0:50,5,False
+764,Mat Lam Tam,Italian,Bronx,Expensive,10:21,0:37,2,True
+765,Subin,Russian,Harlem,Expensive,12:52,0:37,5,False
+766,Holdlamis,Vegan,Hell's Kitchen,Cheap,12:44,0:10,1,False
+767,Kanlam,Japanese,Brooklyn,Expensive,8:33,0:25,4,True
+768,Bitwolf,Vegan,Brooklyn,Medium,8:38,0:16,3,False
+769,Tresom,Korean,Harlem,Medium,10:11,0:20,4,True
+770,Lotstring,Fast Food,Brooklyn,Cheap,10:29,0:36,5,False
+771,Matsoft,Korean,Harlem,Expensive,9:49,1:31,5,False
+772,Quo Lux,Italian,Lower East Side,Cheap,9:07,1:42,3,False
+773,Mat Lam Tam,Vegan,East Village,Cheap,8:12,1:10,4,False
+774,Stringtough,Korean,East Village,Expensive,9:10,0:14,2,True
+775,Cardify,Italian,Hell's Kitchen,Cheap,11:53,0:42,3,False
+776,Subin,Kazakh,East Village,Cheap,11:01,1:10,5,True
+777,Tres-Zap,Japanese,Brooklyn,Medium,11:11,1:09,5,False
+778,Overhold,Vegan,Manhattan,Medium,8:37,0:50,3,True
+779,Fintone,Fast Food,Bronx,Medium,11:32,1:42,1,True
+780,Konklab,Italian,Hell's Kitchen,Expensive,9:27,1:06,1,True
+781,Otcom,Chinese,East Village,Expensive,12:26,0:11,4,False
+782,Daltfresh,Japanese,Lower East Side,Expensive,11:07,1:08,5,False
+783,Home Ing,Korean,Manhattan,Expensive,8:03,1:53,1,False
+784,Otcom,Korean,Hell's Kitchen,Medium,10:07,1:39,4,True
+785,Gembucket,Russian,Brooklyn,Expensive,11:41,1:44,2,False
+786,Bitwolf,Kazakh,Lower East Side,Cheap,10:49,0:19,5,True
+787,Tampflex,Japanese,Manhattan,Medium,8:37,0:19,4,False
+788,Voyatouch,Russian,Manhattan,Expensive,10:47,0:05,1,True
+789,Transcof,Russian,East Village,Medium,10:35,1:46,1,False
+790,Y-find,Fast Food,Manhattan,Medium,12:55,0:30,2,False
+791,Gembucket,Fast Food,Harlem,Expensive,12:50,0:47,5,True
+792,Tin,Russian,Manhattan,Medium,11:46,0:26,1,False
+793,Y-Solowarm,Kazakh,Lower East Side,Expensive,11:09,1:11,2,False
+794,Gembucket,Japanese,Brooklyn,Cheap,12:00,0:29,1,False
+795,Trippledex,Korean,Lower East Side,Medium,8:22,1:29,5,False
+796,Bitchip,Mexican,Manhattan,Medium,12:53,0:43,3,False
+797,Flowdesk,Japanese,Hell's Kitchen,Medium,11:12,1:30,4,True
+798,Cardify,Russian,Lower East Side,Expensive,10:58,0:41,1,True
+799,Konklab,Korean,Harlem,Expensive,8:35,1:05,2,True
+800,Gembucket,Korean,Bronx,Expensive,11:23,1:33,2,False
+801,Job,Indian,East Village,Medium,9:56,0:47,2,False
+802,Greenlam,Italian,Brooklyn,Cheap,8:07,0:32,2,False
+803,Sonair,Mexican,Brooklyn,Medium,12:31,0:27,3,True
+804,Daltfresh,Italian,Brooklyn,Cheap,12:18,1:53,5,False
+805,Job,Indian,Hell's Kitchen,Cheap,12:53,1:22,2,False
+806,Zoolab,Indian,East Village,Cheap,9:10,0:07,1,True
+807,Tres-Zap,Fast Food,Lower East Side,Medium,10:33,0:42,2,False
+808,Konklab,Japanese,Harlem,Expensive,11:45,1:34,2,False
+809,Otcom,Kazakh,East Village,Medium,10:02,0:15,2,True
+810,Bitwolf,Japanese,Bronx,Expensive,10:07,1:56,2,False
+811,Y-Solowarm,Vegan,Hell's Kitchen,Expensive,11:45,0:22,4,True
+812,Zontrax,Mexican,Brooklyn,Expensive,12:46,1:52,2,False
+813,Zathin,Mexican,Bronx,Expensive,9:46,0:45,3,False
+814,Cookley,Vegan,Bronx,Cheap,8:40,0:53,3,True
+815,Namfix,Vegan,Bronx,Cheap,11:08,1:36,1,False
+816,Regrant,Chinese,Bronx,Medium,8:13,0:50,1,False
+817,Zamit,Russian,Harlem,Expensive,11:14,0:04,1,False
+818,Asoka,Russian,Bronx,Expensive,12:38,1:12,3,True
+819,Voltsillam,Korean,Lower East Side,Expensive,10:13,0:53,2,True
+820,Treeflex,Russian,Bronx,Expensive,9:31,0:36,1,True
+821,Subin,Kazakh,Lower East Side,Expensive,10:51,0:54,5,True
+822,Bytecard,Chinese,Hell's Kitchen,Cheap,9:33,0:03,5,False
+823,Lotlux,Russian,East Village,Expensive,9:22,0:44,1,False
+824,Lotstring,Mexican,Lower East Side,Cheap,12:20,0:22,4,True
+825,Zathin,Italian,Manhattan,Medium,11:43,1:27,3,True
+826,Veribet,Korean,Bronx,Expensive,11:57,0:02,3,True
+827,Matsoft,Italian,East Village,Medium,11:59,1:27,2,True
+828,Lotstring,Korean,East Village,Cheap,10:35,1:23,4,False
+829,Stringtough,Mexican,East Village,Cheap,11:42,1:57,5,True
+830,Zathin,Indian,Hell's Kitchen,Cheap,10:01,1:22,2,False
+831,Fintone,Indian,Manhattan,Cheap,12:50,0:48,1,False
+832,Temp,Mexican,East Village,Expensive,8:00,1:43,4,False
+833,Opela,Mexican,Harlem,Medium,12:38,0:15,3,False
+834,Namfix,Japanese,Bronx,Expensive,12:40,1:30,3,False
+835,Tampflex,Mexican,Bronx,Expensive,11:21,0:51,3,False
+836,Hatity,Vegan,Bronx,Medium,10:27,0:41,1,True
+837,Bigtax,Japanese,East Village,Expensive,11:46,0:55,3,True
+838,Keylex,Kazakh,Hell's Kitchen,Medium,9:54,0:45,5,True
+839,Lotstring,Vegan,Harlem,Cheap,11:42,1:09,5,True
+840,Temp,Chinese,Lower East Side,Expensive,11:47,1:58,2,True
+841,It,Vegan,Harlem,Expensive,11:26,0:51,1,True
+842,Wrapsafe,Mexican,Harlem,Expensive,11:33,1:01,1,False
+843,Biodex,Chinese,Harlem,Medium,12:22,1:15,2,True
+844,Mat Lam Tam,Indian,Harlem,Medium,8:37,0:33,3,True
+845,Bytecard,Vegan,Hell's Kitchen,Cheap,9:34,0:48,4,True
+846,Kanlam,Vegan,Lower East Side,Medium,9:44,1:41,2,True
+847,Fix San,Japanese,Bronx,Expensive,8:14,0:06,3,True
+848,Cookley,Mexican,Bronx,Expensive,10:14,0:43,2,True
+849,Fixflex,Korean,Lower East Side,Medium,9:02,1:58,5,False
+850,Zathin,Fast Food,Hell's Kitchen,Cheap,11:09,0:19,1,False
+851,Lotlux,Kazakh,Brooklyn,Cheap,12:53,1:18,4,True
+852,Matsoft,Indian,Manhattan,Expensive,12:16,0:36,1,True
+853,Treeflex,Japanese,Manhattan,Medium,9:05,1:21,2,True
+854,Solarbreeze,Russian,East Village,Cheap,9:35,1:36,2,True
+855,Zaam-Dox,Korean,Lower East Side,Expensive,12:11,0:23,5,False
+856,Bytecard,Chinese,Bronx,Cheap,12:52,0:37,5,True
+857,Holdlamis,Vegan,Manhattan,Expensive,10:11,0:46,4,False
+858,Namfix,Japanese,Bronx,Expensive,8:55,0:09,4,True
+859,Vagram,Vegan,Manhattan,Expensive,9:06,0:14,1,False
+860,Tresom,Kazakh,East Village,Expensive,10:51,0:51,5,False
+861,Bitwolf,Chinese,Manhattan,Medium,10:18,1:43,4,True
+862,Zamit,Japanese,Lower East Side,Expensive,9:05,1:50,4,True
+863,Fixflex,Mexican,Harlem,Cheap,12:21,0:27,2,False
+864,Daltfresh,Kazakh,Brooklyn,Expensive,12:38,1:32,5,False
+865,Zamit,Russian,Harlem,Expensive,10:15,0:05,1,False
+866,Otcom,Kazakh,East Village,Medium,10:19,1:00,1,True
+867,Flowdesk,Russian,Brooklyn,Medium,9:08,0:02,3,True
+868,Stim,Italian,East Village,Cheap,8:04,1:14,2,True
+869,Latlux,Vegan,Hell's Kitchen,Cheap,12:34,0:51,1,False
+870,Vagram,Russian,Manhattan,Medium,8:53,0:18,2,True
+871,Voltsillam,Indian,Lower East Side,Cheap,11:38,0:15,2,False
+872,Opela,Chinese,Harlem,Cheap,8:54,1:12,4,True
+873,Bigtax,Vegan,Hell's Kitchen,Medium,12:16,0:13,1,False
+874,Vagram,Indian,Harlem,Medium,12:39,1:42,1,True
+875,Bitwolf,Vegan,Brooklyn,Expensive,9:44,0:48,1,False
+876,Temp,Korean,Bronx,Expensive,9:07,1:25,1,False
+877,Stronghold,Kazakh,East Village,Expensive,10:48,1:31,2,True
+878,Alpha,Japanese,Bronx,Medium,12:45,0:42,1,True
+879,Duobam,Fast Food,Bronx,Expensive,11:54,0:18,2,False
+880,Latlux,Korean,Harlem,Expensive,10:36,1:17,4,True
+881,Asoka,Kazakh,Harlem,Cheap,11:03,1:59,3,True
+882,Keylex,Japanese,Manhattan,Medium,11:02,0:46,3,True
+883,Konklab,Korean,Lower East Side,Expensive,9:14,1:19,5,False
+884,Stringtough,Vegan,Hell's Kitchen,Expensive,8:43,0:34,3,False
+885,Trippledex,Vegan,East Village,Expensive,12:05,0:15,1,False
+886,Kanlam,Fast Food,Bronx,Cheap,9:05,1:18,5,True
+887,Overhold,Italian,Manhattan,Expensive,12:39,1:57,3,True
+888,Regrant,Japanese,Brooklyn,Expensive,12:46,1:18,3,False
+889,Flowdesk,Italian,Bronx,Cheap,9:16,1:39,1,True
+890,Opela,Russian,Harlem,Expensive,9:37,1:49,5,False
+891,Kanlam,Vegan,Manhattan,Medium,9:20,0:59,4,False
+892,Alphazap,Vegan,Bronx,Cheap,11:17,1:02,1,True
+893,Trippledex,Italian,Lower East Side,Expensive,12:47,0:05,4,True
+894,Sonsing,Indian,Hell's Kitchen,Expensive,11:56,0:15,4,True
+895,Y-Solowarm,Russian,East Village,Medium,9:26,1:47,2,False
+896,Prodder,Korean,Manhattan,Expensive,9:26,0:36,3,False
+897,Ronstring,Vegan,Hell's Kitchen,Medium,10:36,0:46,3,False
+898,Redhold,Japanese,Bronx,Cheap,9:04,0:55,2,True
+899,Kanlam,Japanese,Manhattan,Expensive,11:59,1:36,3,False
+900,Quo Lux,Vegan,Hell's Kitchen,Expensive,9:34,1:32,5,True
+901,Y-Solowarm,Korean,Lower East Side,Expensive,11:03,0:01,1,True
+902,Tresom,Vegan,Brooklyn,Medium,10:04,0:25,4,False
+903,Asoka,Italian,Hell's Kitchen,Expensive,9:52,1:56,3,True
+904,Sonair,Chinese,Manhattan,Expensive,11:33,0:29,3,False
+905,Fix San,Japanese,East Village,Cheap,8:49,0:12,3,True
+906,Treeflex,Russian,Bronx,Expensive,10:35,1:45,4,False
+907,Bitwolf,Kazakh,Harlem,Cheap,8:39,0:03,2,False
+908,Fintone,Japanese,Lower East Side,Medium,11:54,0:12,4,True
+909,Gembucket,Indian,Manhattan,Cheap,10:35,0:06,1,True
+910,Span,Italian,Lower East Side,Expensive,9:22,0:07,2,False
+911,Zaam-Dox,Russian,East Village,Medium,9:47,1:47,1,True
+912,Transcof,Japanese,Lower East Side,Expensive,9:33,1:28,2,False
+913,Viva,Vegan,Lower East Side,Expensive,8:02,0:37,3,True
+914,Opela,Mexican,Lower East Side,Expensive,12:21,1:22,4,False
+915,Toughjoyfax,Italian,Manhattan,Medium,9:57,1:14,1,True
+916,Prodder,Vegan,East Village,Cheap,10:05,0:45,5,False
+917,Temp,Kazakh,Harlem,Cheap,12:42,0:06,3,True
+918,Zathin,Russian,Hell's Kitchen,Cheap,9:28,0:21,4,False
+919,Sonsing,Kazakh,Harlem,Medium,10:51,0:28,1,True
+920,Greenlam,Vegan,Bronx,Medium,9:13,1:53,3,False
+921,Sonsing,Indian,Hell's Kitchen,Cheap,10:56,0:02,1,True
+922,Alpha,Kazakh,Manhattan,Medium,12:15,0:48,4,False
+923,Wrapsafe,Japanese,Hell's Kitchen,Cheap,11:17,0:15,4,True
+924,Treeflex,Fast Food,Manhattan,Medium,12:09,1:21,5,True
+925,Zathin,Japanese,Lower East Side,Medium,10:49,1:13,5,True
+926,Flowdesk,Italian,Manhattan,Cheap,9:50,1:04,3,True
+927,Asoka,Chinese,Brooklyn,Cheap,11:41,0:51,5,False
+928,Zontrax,Chinese,Lower East Side,Expensive,9:48,0:24,2,False
+929,Treeflex,Japanese,Hell's Kitchen,Cheap,8:19,0:28,5,False
+930,Y-find,Korean,East Village,Medium,11:18,0:16,5,False
+931,Konklux,Kazakh,Lower East Side,Medium,10:37,0:28,4,False
+932,Otcom,Korean,Harlem,Cheap,8:10,0:56,4,False
+933,Flowdesk,Fast Food,Bronx,Medium,11:20,1:04,2,False
+934,Holdlamis,Chinese,Bronx,Cheap,11:41,0:15,4,True
+935,Zontrax,Chinese,Lower East Side,Medium,9:12,0:13,2,False
+936,Stim,Mexican,Brooklyn,Cheap,8:52,0:25,2,False
+937,Fix San,Kazakh,Bronx,Cheap,10:41,1:59,1,True
+938,Zamit,Vegan,Manhattan,Cheap,11:22,1:07,3,False
+939,Y-Solowarm,Mexican,Lower East Side,Medium,10:50,1:04,2,True
+940,Tresom,Vegan,Lower East Side,Expensive,12:52,1:56,3,False
+941,Solarbreeze,Indian,Bronx,Expensive,10:33,0:53,4,True
+942,Latlux,Kazakh,Brooklyn,Expensive,12:35,1:29,1,True
+943,Bytecard,Fast Food,East Village,Expensive,12:08,0:56,4,False
+944,Temp,Russian,Manhattan,Cheap,10:24,1:42,2,True
+945,Zamit,Indian,Bronx,Expensive,12:51,1:35,2,False
+946,Ventosanzap,Russian,Bronx,Expensive,10:15,0:43,2,False
+947,Sonair,Kazakh,Lower East Side,Medium,9:44,1:38,4,False
+948,Tin,Chinese,Hell's Kitchen,Medium,11:45,1:30,5,False
+949,Keylex,Kazakh,Hell's Kitchen,Expensive,8:43,1:55,3,True
+950,Temp,Mexican,East Village,Expensive,12:01,0:08,2,True
+951,Prodder,Italian,Lower East Side,Expensive,8:45,1:37,5,False
+952,Konklab,Italian,Lower East Side,Expensive,12:52,1:21,1,True
+953,Hatity,Chinese,Hell's Kitchen,Cheap,12:21,1:09,1,False
+954,Transcof,Russian,Hell's Kitchen,Expensive,11:55,0:28,3,False
+955,Wrapsafe,Fast Food,Bronx,Cheap,8:28,1:36,2,False
+956,Lotstring,Japanese,East Village,Medium,9:55,1:21,2,True
+957,Zontrax,Korean,Brooklyn,Medium,8:02,1:47,1,False
+958,Bytecard,Fast Food,Harlem,Medium,9:55,1:13,3,True
+959,Greenlam,Indian,Hell's Kitchen,Expensive,10:54,0:37,3,False
+960,Temp,Fast Food,Harlem,Medium,11:42,1:54,5,False
+961,Home Ing,Kazakh,Harlem,Cheap,9:06,0:02,5,True
+962,Aerified,Italian,Brooklyn,Expensive,11:27,0:15,2,False
+963,Bytecard,Korean,Hell's Kitchen,Expensive,8:16,0:38,4,True
+964,Ronstring,Chinese,Lower East Side,Medium,10:32,0:50,4,False
+965,Latlux,Indian,East Village,Cheap,9:48,1:58,4,True
+966,Konklux,Chinese,East Village,Medium,10:39,0:00,5,True
+967,Daltfresh,Kazakh,Brooklyn,Medium,12:36,1:18,2,False
+968,Zoolab,Mexican,Harlem,Cheap,11:54,1:59,1,False
+969,Duobam,Mexican,Hell's Kitchen,Expensive,10:20,0:18,5,True
+970,Y-find,Chinese,Brooklyn,Medium,12:57,0:38,4,True
+971,Daltfresh,Italian,Hell's Kitchen,Cheap,8:25,1:16,3,False
+972,Y-find,Japanese,East Village,Cheap,10:14,0:29,5,True
+973,Bitwolf,Kazakh,East Village,Medium,12:18,0:34,5,False
+974,Domainer,Fast Food,Bronx,Cheap,9:55,0:12,4,False
+975,Opela,Vegan,Manhattan,Cheap,9:20,0:45,2,False
+976,Transcof,Indian,East Village,Medium,8:34,1:48,4,True
+977,Zontrax,Russian,Manhattan,Expensive,10:18,1:48,1,False
+978,Keylex,Chinese,Hell's Kitchen,Expensive,11:55,1:47,1,False
+979,Hatity,Japanese,Manhattan,Cheap,8:12,0:44,3,False
+980,Rank,Fast Food,Brooklyn,Cheap,12:26,1:34,2,False
+981,Daltfresh,Chinese,Manhattan,Expensive,8:04,0:26,1,True
+982,Zoolab,Japanese,Lower East Side,Medium,12:24,0:28,1,False
+983,It,Chinese,Hell's Kitchen,Expensive,12:21,1:39,1,False
+984,Alphazap,Mexican,Brooklyn,Cheap,12:15,1:12,5,True
+985,Home Ing,Italian,Harlem,Cheap,9:32,0:21,2,True
+986,Viva,Indian,Harlem,Cheap,12:40,1:45,2,False
+987,Mat Lam Tam,Vegan,Harlem,Expensive,9:12,0:44,5,False
+988,Andalax,Fast Food,Brooklyn,Expensive,12:34,1:56,2,False
+989,Opela,Chinese,Hell's Kitchen,Cheap,10:25,1:35,3,False
+990,Zathin,Indian,Lower East Side,Expensive,11:59,1:36,2,True
+991,Toughjoyfax,Korean,Harlem,Medium,8:53,0:31,1,False
+992,Sonsing,Japanese,Manhattan,Expensive,10:59,0:40,3,False
+993,Veribet,Italian,Lower East Side,Cheap,9:50,0:17,2,False
+994,Andalax,Indian,Hell's Kitchen,Medium,8:28,0:42,2,False
+995,Tampflex,Russian,Brooklyn,Expensive,12:21,1:15,5,False
+996,Lotlux,Chinese,Manhattan,Expensive,12:52,0:56,2,True
+997,Opela,Vegan,Lower East Side,Medium,12:44,0:00,2,True
+998,Stronghold,Mexican,Bronx,Medium,12:49,0:32,3,True
+999,Treeflex,Mexican,Manhattan,Cheap,10:56,1:04,5,True
+1000,Rank,Korean,Bronx,Expensive,11:27,1:44,1,True

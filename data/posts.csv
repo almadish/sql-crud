@@ -1,0 +1,1001 @@
+from_id,to_id,Messages,Sent_time,Stories,Posted_time,Visibility
+22,29,Have a good day!,2021-10-30 12:19:44,,,
+26,235,Thank you,2021-10-31 04:55:27,Today was a great day!,2021-10-30 05:10:45,1
+386,235,Its so hard bro,2021-10-30 14:11:53,Look at my family!,2021-10-27 00:58:25,1
+485,485,Its so hard bro,2021-10-26 06:01:17,Look at my family!,2021-10-26 21:48:10,1
+27,21,See you later!,2021-10-28 12:48:37,Guys you should visit this place!!!,2021-10-26 14:58:19,1
+964,17,No way!!!!,2021-10-29 14:31:10,Look at my family!,2021-10-26 18:16:58,0
+964,472,Hey,2021-10-27 07:30:44,Today was a great day!,2021-10-31 02:31:41,0
+473,674,See you later!,2021-10-28 19:15:46,That was dope!,2021-10-27 20:15:12,1
+8,2,ahahhahahaha,2021-10-29 04:28:53,That was dope!,2021-10-30 05:29:01,0
+32,36,of course!,2021-10-31 17:20:49,Look at my family!,2021-10-28 14:11:22,1
+30,385,NO WAAAY!!,2021-10-26 02:48:51,That was dope!,2021-10-29 17:18:58,1
+385,160,Hope you are doing well,2021-10-31 03:50:17,Look at this beautiful place!,2021-10-28 15:36:14,1
+4,54,Dude stop doing that,2021-10-26 18:18:18,FOOOOOD!,2021-10-28 01:10:17,0
+4,623,Hey,2021-10-28 17:08:09,Guys you should visit this place!!!,2021-10-28 14:38:16,1
+20,484,I'm down,2021-10-26 09:45:29,That was dope!,2021-10-31 22:38:03,0
+176,23,of course!,2021-10-30 09:03:36,Look at this beautiful place!,2021-10-26 04:55:03,1
+21,15,SURE!,2021-10-29 20:01:35,Guys you should visit this place!!!,2021-10-29 13:04:06,1
+26,23,Love you!,2021-10-26 15:42:49,,,
+274,8,I don't know,2021-10-26 23:28:09,Look at my family!,2021-10-26 14:01:47,0
+31,623,No way!!!!,2021-10-30 15:47:02,,,
+265,674,No way!!!!,2021-10-27 06:00:02,Look at my family!,2021-10-27 04:25:33,0
+15,16,Love you!,2021-10-26 01:24:38,Today was a great day!,2021-10-26 10:32:08,1
+27,16,Love you!,2021-10-31 22:29:17,That was dope!,2021-10-31 11:18:53,0
+473,88,Hope you are doing well,2021-10-28 11:10:06,,,
+8,24,Hey,2021-10-27 12:12:52,Look at this beautiful place!,2021-10-26 12:54:00,0
+34,19,Hey,2021-10-31 16:44:19,That was dope!,2021-10-29 20:02:25,1
+176,596,Love you!,2021-10-31 17:41:14,Today was a great day!,2021-10-31 03:35:26,1
+674,105,Its so hard bro,2021-10-28 19:30:16,FOOOOOD!,2021-10-31 18:05:37,0
+386,12,ahahhahahaha,2021-10-29 11:49:43,Today was a great day!,2021-10-30 11:12:54,1
+105,385,SURE!,2021-10-27 12:56:37,FOOOOOD!,2021-10-26 16:54:17,0
+99,6,of course!,2021-10-31 03:59:41,That was dope!,2021-10-27 05:21:59,0
+160,684,Hope you are doing well,2021-10-29 03:00:59,Guys you should visit this place!!!,2021-10-26 01:33:38,0
+2,24,I hope so!,2021-10-31 17:23:23,Guys you should visit this place!!!,2021-10-30 12:07:21,1
+473,31,Thank you,2021-10-31 21:10:51,Guys you should visit this place!!!,2021-10-27 18:57:06,1
+964,3,of course!,2021-10-31 13:34:21,That was dope!,2021-10-27 04:36:05,0
+964,4,I hope so!,2021-10-30 12:05:01,Guys you should visit this place!!!,2021-10-28 18:04:25,0
+21,105,Have a good day!,2021-10-31 08:35:58,,,
+820,22,of course!,2021-10-27 12:36:51,,,
+5,386,I hope so!,2021-10-29 17:34:27,Look at my family!,2021-10-28 10:25:18,0
+54,18,I'm down,2021-10-26 21:17:46,Look at this beautiful place!,2021-10-29 09:46:28,0
+20,1,Have a good day!,2021-10-29 22:56:50,Look at this beautiful place!,2021-10-28 04:48:47,0
+385,284,Its so hard bro,2021-10-28 14:00:28,That was dope!,2021-10-27 18:14:33,1
+274,160,I don't know,2021-10-30 23:04:44,Today was a great day!,2021-10-29 05:51:19,0
+20,2,ahahhahahaha,2021-10-26 00:51:14,Look at this beautiful place!,2021-10-29 07:24:36,0
+176,10,Dude stop doing that,2021-10-29 01:56:37,Guys you should visit this place!!!,2021-10-27 00:01:00,1
+54,820,Its so hard bro,2021-10-31 18:32:04,Today was a great day!,2021-10-30 15:18:02,1
+26,4,See you later!,2021-10-28 23:58:29,FOOOOOD!,2021-10-27 15:10:59,1
+7,27,ajajajajajaj,2021-10-30 09:32:21,Look at my family!,2021-10-27 15:56:22,1
+964,265,NO WAAAY!!,2021-10-29 22:12:12,,,
+33,7,Its so hard bro,2021-10-28 07:48:15,Look at this beautiful place!,2021-10-31 22:44:28,0
+7,5,What are you talking about?!,2021-10-28 21:02:50,,,
+7,160,NO WAAAY!!,2021-10-27 04:21:54,Look at this beautiful place!,2021-10-26 07:05:17,0
+385,99,I don't know,2021-10-31 05:11:48,FOOOOOD!,2021-10-30 22:28:31,0
+11,22,How dare you?,2021-10-29 18:59:37,FOOOOOD!,2021-10-30 14:37:22,0
+394,26,How dare you?,2021-10-29 05:28:23,Guys you should visit this place!!!,2021-10-31 23:28:22,1
+17,26,I don't know,2021-10-27 19:57:41,,,
+284,385,SURE!,2021-10-31 13:16:32,,,
+99,8,Its so hard bro,2021-10-30 06:46:01,FOOOOOD!,2021-10-30 09:30:07,1
+160,176,How dare you?,2021-10-31 11:29:27,Guys you should visit this place!!!,2021-10-29 23:59:48,1
+1,8,ajajajajajaj,2021-10-28 13:22:14,Guys you should visit this place!!!,2021-10-27 18:10:03,1
+596,13,ahahhahahaha,2021-10-28 00:16:16,Look at my family!,2021-10-28 14:55:14,1
+235,2,ahahhahahaha,2021-10-31 12:23:34,Guys you should visit this place!!!,2021-10-26 09:55:35,1
+484,15,See you later!,2021-10-29 03:07:19,Look at my family!,2021-10-28 19:07:10,1
+16,3,ahahhahahaha,2021-10-31 21:20:50,Today was a great day!,2021-10-31 11:58:31,0
+820,265,See you later!,2021-10-28 13:19:23,Look at my family!,2021-10-30 11:55:47,0
+176,684,How are you?,2021-10-27 00:19:47,Guys you should visit this place!!!,2021-10-26 20:52:31,0
+473,15,ahahhahahaha,2021-10-31 06:43:59,,,
+22,5,I don't know,2021-10-28 11:42:44,Look at my family!,2021-10-31 09:26:07,0
+23,17,What are you talking about?!,2021-10-26 14:16:38,That was dope!,2021-10-28 00:43:27,0
+32,32,Love you!,2021-10-26 07:42:06,That was dope!,2021-10-29 08:03:24,0
+10,26,Hope you are doing well,2021-10-29 12:33:18,Look at this beautiful place!,2021-10-28 12:41:34,1
+684,206,ahahhahahaha,2021-10-28 04:17:43,Guys you should visit this place!!!,2021-10-31 01:44:04,0
+284,2,What are you talking about?!,2021-10-30 14:54:22,,,
+9,33,Hey,2021-10-27 10:27:56,,,
+15,29,No way!!!!,2021-10-31 16:57:46,Look at my family!,2021-10-29 02:40:30,1
+485,394,How are you?,2021-10-31 10:47:39,,,
+32,206,Have a good day!,2021-10-31 18:22:08,,,
+31,394,NO WAAAY!!,2021-10-29 03:31:09,Look at this beautiful place!,2021-10-27 12:59:10,0
+8,284,Have a good day!,2021-10-27 02:53:20,That was dope!,2021-10-27 13:15:08,0
+28,7,Its so hard bro,2021-10-28 00:17:55,FOOOOOD!,2021-10-27 02:16:08,1
+484,8,Have a good day!,2021-10-26 09:56:22,Today was a great day!,2021-10-31 00:51:55,0
+596,10,I don't know,2021-10-27 09:11:41,,,
+99,10,of course!,2021-10-30 01:01:19,Guys you should visit this place!!!,2021-10-27 14:34:34,1
+820,13,NO WAAAY!!,2021-10-27 13:32:32,Today was a great day!,2021-10-31 18:43:02,1
+3,16,SURE!,2021-10-27 07:10:31,Look at my family!,2021-10-28 01:40:20,0
+99,29,SURE!,2021-10-30 23:15:30,FOOOOOD!,2021-10-29 15:54:18,1
+596,472,SURE!,2021-10-30 21:08:37,Look at my family!,2021-10-28 19:52:52,1
+88,964,Love you!,2021-10-26 04:06:29,FOOOOOD!,2021-10-29 06:26:27,0
+5,25,I hope so!,2021-10-28 21:37:55,,,
+25,30,How are you?,2021-10-30 16:43:51,,,
+385,33,ahahhahahaha,2021-10-31 06:38:38,Look at my family!,2021-10-29 01:15:19,0
+15,17,I'm down,2021-10-30 07:58:22,FOOOOOD!,2021-10-30 19:40:29,1
+10,32,SURE!,2021-10-31 23:57:15,Today was a great day!,2021-10-28 02:17:18,0
+30,21,NO WAAAY!!,2021-10-31 22:01:32,Look at this beautiful place!,2021-10-31 15:28:09,1
+12,31,What are you talking about?!,2021-10-30 10:49:24,Look at my family!,2021-10-31 22:58:27,0
+8,19,of course!,2021-10-26 19:40:15,,,
+2,27,Have a good day!,2021-10-28 16:58:24,,,
+160,385,Its so hard bro,2021-10-29 19:34:45,Look at this beautiful place!,2021-10-31 00:10:10,1
+11,3,Hey,2021-10-26 01:24:13,Guys you should visit this place!!!,2021-10-31 04:55:16,0
+968,274,How are you?,2021-10-30 11:45:23,Look at my family!,2021-10-26 13:23:38,0
+29,1,of course!,2021-10-26 07:06:32,,,
+2,485,Hey,2021-10-28 12:58:18,,,
+176,88,No way!!!!,2021-10-27 06:30:08,FOOOOOD!,2021-10-30 23:56:39,1
+160,485,How are you?,2021-10-31 06:25:54,Today was a great day!,2021-10-31 07:27:33,0
+265,206,Dude stop doing that,2021-10-27 18:23:46,Look at this beautiful place!,2021-10-27 18:51:26,1
+485,964,How are you?,2021-10-30 06:22:50,Today was a great day!,2021-10-31 11:21:24,0
+623,21,ajajajajajaj,2021-10-30 01:25:07,,,
+265,31,Love you!,2021-10-30 08:07:34,Today was a great day!,2021-10-30 07:10:40,0
+88,3,Hope you are doing well,2021-10-28 17:54:20,FOOOOOD!,2021-10-28 07:52:57,0
+12,29,Have a good day!,2021-10-31 12:04:44,,,
+964,10,of course!,2021-10-29 03:56:43,Guys you should visit this place!!!,2021-10-26 02:25:01,1
+23,596,No way!!!!,2021-10-26 14:47:07,,,
+19,15,I don't know,2021-10-31 09:20:50,Look at my family!,2021-10-29 01:18:05,1
+5,24,I'm down,2021-10-27 09:31:10,Guys you should visit this place!!!,2021-10-28 08:43:05,1
+28,22,I hope so!,2021-10-27 15:26:56,FOOOOOD!,2021-10-28 17:38:29,1
+623,10,Hope you are doing well,2021-10-27 21:56:07,,,
+684,274,No way!!!!,2021-10-29 21:55:37,Guys you should visit this place!!!,2021-10-30 12:31:01,0
+472,12,See you later!,2021-10-28 17:43:40,Look at my family!,2021-10-29 06:01:24,0
+13,385,of course!,2021-10-31 19:47:58,Guys you should visit this place!!!,2021-10-29 19:22:53,1
+385,88,Thank you,2021-10-29 23:46:02,FOOOOOD!,2021-10-29 04:54:40,1
+31,22,I'm down,2021-10-27 10:32:11,Today was a great day!,2021-10-26 00:37:35,1
+11,394,I don't know,2021-10-27 19:15:30,,,
+21,13,No way!!!!,2021-10-31 22:43:19,FOOOOOD!,2021-10-27 19:28:13,0
+6,3,Thank you,2021-10-29 21:48:22,FOOOOOD!,2021-10-26 09:18:44,1
+20,28,Have a good day!,2021-10-30 21:31:52,,,
+12,28,See you later!,2021-10-31 13:18:30,Look at my family!,2021-10-27 08:47:26,0
+674,484,Thank you,2021-10-30 21:16:44,Today was a great day!,2021-10-31 09:53:57,0
+45,485,Its so hard bro,2021-10-28 12:06:35,Look at my family!,2021-10-27 18:22:42,0
+484,88,SURE!,2021-10-29 01:43:53,,,
+13,472,ahahhahahaha,2021-10-29 11:12:48,Today was a great day!,2021-10-28 19:12:16,0
+596,385,How are you?,2021-10-31 16:03:54,Today was a great day!,2021-10-28 00:49:11,1
+484,22,ahahhahahaha,2021-10-27 11:32:45,That was dope!,2021-10-26 01:05:51,0
+8,8,I'm down,2021-10-28 00:20:41,,,
+24,484,I hope so!,2021-10-29 09:16:36,Look at my family!,2021-10-27 13:23:33,0
+386,15,NO WAAAY!!,2021-10-28 10:28:57,Today was a great day!,2021-10-28 15:59:30,0
+36,206,Dude stop doing that,2021-10-31 20:03:39,,,
+105,4,Hey,2021-10-26 13:07:17,,,
+7,14,Have a good day!,2021-10-28 14:35:07,That was dope!,2021-10-29 00:40:17,0
+15,19,Thank you,2021-10-26 12:53:42,Guys you should visit this place!!!,2021-10-29 12:15:45,0
+17,394,Its so hard bro,2021-10-30 14:15:11,Look at my family!,2021-10-28 16:44:17,0
+2,623,How are you?,2021-10-28 01:51:51,FOOOOOD!,2021-10-27 01:49:59,1
+11,18,How are you?,2021-10-26 21:42:13,FOOOOOD!,2021-10-28 15:16:24,1
+3,684,Thank you,2021-10-27 20:37:42,,,
+8,1,What are you talking about?!,2021-10-27 21:00:26,,,
+265,10,Have a good day!,2021-10-28 05:07:33,Look at this beautiful place!,2021-10-27 07:00:04,1
+265,235,What are you talking about?!,2021-10-27 11:50:11,,,
+274,15,I don't know,2021-10-29 15:27:24,Today was a great day!,2021-10-31 14:12:39,1
+623,265,Hey,2021-10-30 21:50:18,That was dope!,2021-10-28 21:01:48,0
+964,674,of course!,2021-10-26 19:47:22,Look at my family!,2021-10-27 03:57:05,0
+29,386,I'm down,2021-10-26 11:12:00,Guys you should visit this place!!!,2021-10-27 11:05:09,0
+274,485,Have a good day!,2021-10-29 23:53:59,FOOOOOD!,2021-10-27 06:19:01,0
+284,385,ahahhahahaha,2021-10-30 21:59:40,Look at my family!,2021-10-29 13:30:32,1
+36,684,NO WAAAY!!,2021-10-30 03:59:19,Look at my family!,2021-10-27 11:23:51,1
+385,473,NO WAAAY!!,2021-10-29 23:05:22,That was dope!,2021-10-29 01:04:17,0
+15,176,Hey,2021-10-28 11:06:02,Today was a great day!,2021-10-27 00:51:33,1
+1,12,No way!!!!,2021-10-29 08:45:27,Look at this beautiful place!,2021-10-28 10:50:41,1
+206,17,ajajajajajaj,2021-10-29 05:12:40,Look at this beautiful place!,2021-10-30 12:02:14,1
+32,13,ahahhahahaha,2021-10-29 03:56:57,Look at my family!,2021-10-28 06:48:55,1
+105,9,I don't know,2021-10-27 12:01:23,Today was a great day!,2021-10-30 15:01:38,1
+385,54,No way!!!!,2021-10-26 01:44:06,Look at my family!,2021-10-30 00:02:57,1
+12,160,See you later!,2021-10-27 18:23:25,That was dope!,2021-10-28 06:11:22,0
+2,45,ahahhahahaha,2021-10-30 04:01:21,FOOOOOD!,2021-10-26 06:23:04,1
+105,5,Its so hard bro,2021-10-27 14:02:41,,,
+386,235,How dare you?,2021-10-31 08:13:32,Guys you should visit this place!!!,2021-10-26 19:00:37,1
+623,385,I hope so!,2021-10-26 18:32:38,Today was a great day!,2021-10-30 00:33:07,0
+674,968,See you later!,2021-10-26 09:20:32,Look at this beautiful place!,2021-10-28 19:11:20,0
+13,10,I'm down,2021-10-30 21:28:45,Look at this beautiful place!,2021-10-28 23:14:28,1
+19,484,ahahhahahaha,2021-10-29 07:21:07,Look at this beautiful place!,2021-10-27 15:25:30,1
+684,8,Thank you,2021-10-29 12:49:08,,,
+9,596,SURE!,2021-10-28 01:24:07,Look at my family!,2021-10-26 00:12:43,1
+4,15,See you later!,2021-10-31 23:54:47,Look at my family!,2021-10-29 13:40:53,0
+17,36,Its so hard bro,2021-10-26 17:47:29,,,
+105,29,How are you?,2021-10-30 17:50:39,Today was a great day!,2021-10-28 20:54:13,1
+964,1,I hope so!,2021-10-29 06:27:09,FOOOOOD!,2021-10-28 19:53:00,0
+206,473,ahahhahahaha,2021-10-26 06:43:31,Look at my family!,2021-10-29 00:03:43,1
+284,45,Have a good day!,2021-10-27 21:41:12,Look at this beautiful place!,2021-10-26 15:18:18,1
+54,394,How are you?,2021-10-29 19:35:12,Guys you should visit this place!!!,2021-10-26 00:17:38,1
+45,274,See you later!,2021-10-26 15:38:01,Guys you should visit this place!!!,2021-10-28 19:49:22,0
+3,21,NO WAAAY!!,2021-10-27 15:40:41,,,
+820,54,Thank you,2021-10-28 20:33:14,That was dope!,2021-10-28 09:36:09,1
+19,26,Dude stop doing that,2021-10-31 16:01:14,Guys you should visit this place!!!,2021-10-30 18:12:06,0
+45,99,How dare you?,2021-10-30 17:08:27,That was dope!,2021-10-31 10:07:01,0
+23,11,No way!!!!,2021-10-30 06:00:49,Look at this beautiful place!,2021-10-29 16:42:13,0
+99,27,No way!!!!,2021-10-27 07:15:26,That was dope!,2021-10-30 23:57:06,1
+11,18,See you later!,2021-10-26 00:15:05,,,
+6,28,ahahhahahaha,2021-10-31 23:18:32,FOOOOOD!,2021-10-31 08:46:51,1
+968,26,Love you!,2021-10-27 16:28:38,,,
+820,4,How are you?,2021-10-31 16:39:39,,,
+385,1,Love you!,2021-10-27 08:54:52,Today was a great day!,2021-10-30 16:47:49,1
+206,385,Dude stop doing that,2021-10-31 16:32:58,,,
+10,2,What are you talking about?!,2021-10-31 12:17:57,,,
+8,18,See you later!,2021-10-28 06:30:16,That was dope!,2021-10-29 01:58:29,1
+4,28,Its so hard bro,2021-10-26 12:14:51,That was dope!,2021-10-28 21:07:02,0
+29,4,I hope so!,2021-10-29 15:58:42,Look at this beautiful place!,2021-10-29 13:41:23,0
+20,473,What are you talking about?!,2021-10-30 10:34:01,Today was a great day!,2021-10-30 18:01:02,0
+27,28,What are you talking about?!,2021-10-27 23:19:56,Look at my family!,2021-10-28 15:14:09,1
+596,385,NO WAAAY!!,2021-10-30 14:53:41,,,
+10,30,ajajajajajaj,2021-10-29 22:30:59,Look at this beautiful place!,2021-10-30 15:01:49,1
+684,274,ahahhahahaha,2021-10-27 03:34:50,FOOOOOD!,2021-10-26 00:28:54,1
+596,394,I'm down,2021-10-27 18:41:48,That was dope!,2021-10-28 12:12:56,0
+34,30,How dare you?,2021-10-30 14:26:14,Look at this beautiful place!,2021-10-26 21:27:04,0
+394,33,NO WAAAY!!,2021-10-31 07:14:15,Look at this beautiful place!,2021-10-30 10:59:12,0
+484,31,Hope you are doing well,2021-10-30 18:40:31,FOOOOOD!,2021-10-30 16:50:09,1
+36,22,I hope so!,2021-10-29 11:43:32,Today was a great day!,2021-10-30 14:55:21,0
+36,4,Dude stop doing that,2021-10-31 21:15:53,Guys you should visit this place!!!,2021-10-26 17:13:37,0
+206,5,Hey,2021-10-26 22:29:49,,,
+386,968,What are you talking about?!,2021-10-27 23:21:23,,,
+28,11,I'm down,2021-10-29 08:09:24,Today was a great day!,2021-10-30 04:15:02,1
+235,3,of course!,2021-10-27 12:56:38,Guys you should visit this place!!!,2021-10-27 00:05:50,1
+99,11,Its so hard bro,2021-10-28 21:55:26,Look at my family!,2021-10-31 12:35:35,0
+18,17,How are you?,2021-10-27 16:51:23,FOOOOOD!,2021-10-30 08:05:21,1
+1,16,ajajajajajaj,2021-10-30 20:23:49,Today was a great day!,2021-10-26 12:12:11,0
+36,14,Have a good day!,2021-10-30 04:42:24,Guys you should visit this place!!!,2021-10-30 23:38:33,1
+473,10,How dare you?,2021-10-26 20:09:29,Guys you should visit this place!!!,2021-10-28 16:18:41,0
+473,13,No way!!!!,2021-10-28 22:29:52,That was dope!,2021-10-26 10:35:20,1
+968,9,Love you!,2021-10-28 11:59:32,That was dope!,2021-10-27 01:06:46,1
+596,265,Hope you are doing well,2021-10-30 07:02:28,Look at this beautiful place!,2021-10-30 06:27:58,1
+484,23,I'm down,2021-10-30 07:06:37,Guys you should visit this place!!!,2021-10-28 11:55:08,0
+27,385,See you later!,2021-10-31 16:15:10,,,
+160,29,NO WAAAY!!,2021-10-30 07:48:30,That was dope!,2021-10-31 07:58:21,1
+394,45,Dude stop doing that,2021-10-26 14:51:04,FOOOOOD!,2021-10-27 17:40:01,1
+284,16,SURE!,2021-10-29 21:22:52,,,
+8,1,ahahhahahaha,2021-10-27 16:10:35,FOOOOOD!,2021-10-28 12:53:15,1
+206,31,Thank you,2021-10-29 20:52:06,,,
+484,284,What are you talking about?!,2021-10-29 13:30:25,FOOOOOD!,2021-10-26 00:00:42,0
+473,964,How dare you?,2021-10-27 10:43:26,That was dope!,2021-10-29 23:31:26,0
+105,29,Love you!,2021-10-28 14:38:46,Today was a great day!,2021-10-28 01:15:13,1
+596,596,See you later!,2021-10-29 21:15:04,,,
+596,472,What are you talking about?!,2021-10-27 01:49:40,Look at my family!,2021-10-31 12:22:40,0
+34,29,How are you?,2021-10-31 13:21:35,Today was a great day!,2021-10-30 23:41:24,0
+28,30,of course!,2021-10-27 23:10:13,Look at this beautiful place!,2021-10-30 15:52:26,0
+88,3,Thank you,2021-10-26 18:20:48,Guys you should visit this place!!!,2021-10-27 06:20:44,1
+24,9,Thank you,2021-10-29 05:22:07,FOOOOOD!,2021-10-30 05:42:28,0
+485,485,I don't know,2021-10-28 17:16:11,Look at this beautiful place!,2021-10-31 09:04:58,0
+385,32,What are you talking about?!,2021-10-29 18:47:08,That was dope!,2021-10-30 07:17:34,1
+29,20,No way!!!!,2021-10-30 01:19:07,Look at this beautiful place!,2021-10-26 22:42:49,1
+36,33,I'm down,2021-10-28 21:43:50,Today was a great day!,2021-10-29 04:18:22,1
+11,29,How dare you?,2021-10-27 10:23:24,That was dope!,2021-10-27 04:13:12,1
+29,820,What are you talking about?!,2021-10-26 23:05:38,That was dope!,2021-10-29 16:26:53,0
+25,45,Hope you are doing well,2021-10-26 20:50:11,Guys you should visit this place!!!,2021-10-31 04:14:21,0
+484,13,What are you talking about?!,2021-10-30 18:36:28,That was dope!,2021-10-26 11:43:01,0
+4,105,How dare you?,2021-10-26 13:48:06,That was dope!,2021-10-28 08:36:13,1
+385,30,How dare you?,2021-10-30 12:41:34,Look at this beautiful place!,2021-10-31 09:30:23,1
+265,36,See you later!,2021-10-27 22:52:56,,,
+473,9,Love you!,2021-10-27 04:18:16,Look at this beautiful place!,2021-10-26 05:01:41,1
+45,386,Thank you,2021-10-26 01:34:38,FOOOOOD!,2021-10-31 16:30:58,0
+29,386,NO WAAAY!!,2021-10-27 14:50:00,Look at my family!,2021-10-26 04:29:13,0
+14,15,I don't know,2021-10-30 23:24:09,Look at this beautiful place!,2021-10-30 04:06:45,1
+2,4,Its so hard bro,2021-10-29 03:22:03,FOOOOOD!,2021-10-26 09:09:30,1
+25,15,SURE!,2021-10-26 22:07:00,Look at my family!,2021-10-29 13:54:15,0
+5,25,ahahhahahaha,2021-10-29 19:14:36,,,
+45,274,ahahhahahaha,2021-10-30 18:31:07,,,
+284,22,I don't know,2021-10-27 19:08:43,Today was a great day!,2021-10-31 07:58:32,1
+6,31,How are you?,2021-10-26 11:06:59,,,
+19,386,See you later!,2021-10-30 02:28:40,Guys you should visit this place!!!,2021-10-31 04:15:55,1
+485,596,Hey,2021-10-30 22:21:58,Look at this beautiful place!,2021-10-30 19:09:27,1
+29,54,Thank you,2021-10-30 21:07:36,FOOOOOD!,2021-10-27 17:23:42,1
+19,472,NO WAAAY!!,2021-10-27 18:52:11,,,
+485,16,How dare you?,2021-10-29 16:51:40,Look at my family!,2021-10-31 21:13:00,0
+17,385,SURE!,2021-10-26 04:09:12,Look at this beautiful place!,2021-10-30 03:22:24,0
+11,14,Have a good day!,2021-10-26 00:19:30,Guys you should visit this place!!!,2021-10-31 03:09:15,0
+4,26,Dude stop doing that,2021-10-30 19:07:28,Today was a great day!,2021-10-30 12:22:19,0
+394,176,NO WAAAY!!,2021-10-28 12:29:03,Today was a great day!,2021-10-26 16:19:02,1
+11,54,Hope you are doing well,2021-10-29 11:35:11,FOOOOOD!,2021-10-26 18:23:27,0
+964,684,I don't know,2021-10-30 21:38:06,That was dope!,2021-10-30 20:30:53,1
+36,25,Love you!,2021-10-29 23:20:37,Guys you should visit this place!!!,2021-10-30 14:36:58,1
+29,274,Dude stop doing that,2021-10-29 02:46:33,Look at this beautiful place!,2021-10-29 05:53:34,1
+99,15,Thank you,2021-10-28 02:37:47,,,
+88,684,Love you!,2021-10-29 14:59:04,Today was a great day!,2021-10-27 00:55:14,0
+3,11,Its so hard bro,2021-10-29 13:19:16,,,
+54,11,What are you talking about?!,2021-10-31 20:47:23,Look at my family!,2021-10-31 01:17:52,1
+30,105,Dude stop doing that,2021-10-31 00:41:32,Look at this beautiful place!,2021-10-27 10:13:48,0
+820,472,I hope so!,2021-10-31 14:17:00,Look at this beautiful place!,2021-10-28 06:08:29,0
+15,5,ahahhahahaha,2021-10-30 05:36:29,,,
+19,235,I don't know,2021-10-29 09:04:33,Look at this beautiful place!,2021-10-26 09:07:37,0
+29,10,ahahhahahaha,2021-10-30 17:28:06,Look at this beautiful place!,2021-10-28 04:34:02,0
+820,99,See you later!,2021-10-26 17:17:44,That was dope!,2021-10-28 01:20:43,0
+2,265,I'm down,2021-10-29 20:04:48,Today was a great day!,2021-10-29 04:13:14,1
+385,33,How are you?,2021-10-31 17:38:57,Today was a great day!,2021-10-27 09:08:54,0
+25,968,I don't know,2021-10-27 02:57:24,FOOOOOD!,2021-10-29 23:09:55,0
+105,26,No way!!!!,2021-10-31 16:25:08,Today was a great day!,2021-10-31 01:58:06,1
+684,1,No way!!!!,2021-10-27 13:06:07,Look at this beautiful place!,2021-10-28 15:39:15,0
+88,4,I don't know,2021-10-28 01:38:33,Guys you should visit this place!!!,2021-10-29 06:57:47,0
+33,385,SURE!,2021-10-28 04:12:07,Guys you should visit this place!!!,2021-10-26 12:12:38,1
+22,31,Have a good day!,2021-10-30 14:46:18,,,
+19,26,Dude stop doing that,2021-10-28 09:48:37,Look at this beautiful place!,2021-10-29 07:19:57,1
+472,88,Thank you,2021-10-28 00:56:13,Guys you should visit this place!!!,2021-10-31 05:49:17,0
+28,596,SURE!,2021-10-28 15:10:42,Guys you should visit this place!!!,2021-10-30 10:01:37,1
+16,7,of course!,2021-10-29 04:41:56,FOOOOOD!,2021-10-29 08:35:54,1
+10,54,I don't know,2021-10-29 11:05:40,,,
+6,26,Hey,2021-10-26 09:08:13,Look at my family!,2021-10-26 06:22:54,0
+274,21,I'm down,2021-10-27 20:39:03,Look at this beautiful place!,2021-10-28 15:28:08,0
+964,6,See you later!,2021-10-27 18:05:08,Today was a great day!,2021-10-29 00:26:00,0
+32,4,No way!!!!,2021-10-26 08:37:39,Look at this beautiful place!,2021-10-26 22:30:11,0
+19,9,SURE!,2021-10-26 10:15:48,That was dope!,2021-10-26 03:25:44,0
+88,25,I hope so!,2021-10-28 11:09:39,FOOOOOD!,2021-10-26 18:31:07,0
+105,29,ahahhahahaha,2021-10-26 08:37:10,,,
+25,385,Thank you,2021-10-29 01:44:32,Look at this beautiful place!,2021-10-27 19:57:00,0
+235,160,Its so hard bro,2021-10-31 19:04:50,That was dope!,2021-10-30 19:33:36,0
+17,160,I'm down,2021-10-27 00:47:14,,,
+15,12,Hope you are doing well,2021-10-27 22:51:33,Look at my family!,2021-10-30 15:22:34,1
+160,3,Thank you,2021-10-28 03:35:46,Look at this beautiful place!,2021-10-27 13:55:36,1
+1,22,ahahhahahaha,2021-10-27 12:56:55,Guys you should visit this place!!!,2021-10-29 09:24:31,0
+21,23,How are you?,2021-10-26 06:19:47,Today was a great day!,2021-10-30 21:15:49,1
+160,674,How dare you?,2021-10-26 04:09:50,Look at this beautiful place!,2021-10-31 23:15:43,0
+674,30,Hope you are doing well,2021-10-27 11:35:46,Today was a great day!,2021-10-29 15:09:18,1
+385,14,Hey,2021-10-28 16:57:07,,,
+9,88,ahahhahahaha,2021-10-28 01:16:46,Look at my family!,2021-10-27 21:54:22,1
+3,16,See you later!,2021-10-28 23:13:10,,,
+385,235,Love you!,2021-10-26 03:21:40,That was dope!,2021-10-28 11:13:25,1
+9,7,I don't know,2021-10-28 08:06:48,FOOOOOD!,2021-10-30 13:43:46,0
+25,1,ajajajajajaj,2021-10-26 22:26:57,,,
+18,30,Its so hard bro,2021-10-26 02:40:45,FOOOOOD!,2021-10-31 12:45:47,0
+11,3,ajajajajajaj,2021-10-31 04:29:51,Today was a great day!,2021-10-31 13:50:49,0
+484,31,I'm down,2021-10-26 18:23:43,Look at my family!,2021-10-30 19:48:11,1
+473,23,Hey,2021-10-29 01:14:21,Look at this beautiful place!,2021-10-31 00:04:48,1
+99,20,Dude stop doing that,2021-10-29 12:30:45,Today was a great day!,2021-10-29 10:58:09,0
+18,25,How dare you?,2021-10-28 00:21:20,That was dope!,2021-10-31 08:28:09,1
+11,29,Thank you,2021-10-30 15:58:23,Look at this beautiful place!,2021-10-26 16:30:49,0
+8,176,What are you talking about?!,2021-10-27 02:37:55,Look at my family!,2021-10-31 01:49:24,0
+12,88,Hope you are doing well,2021-10-30 04:13:43,FOOOOOD!,2021-10-28 14:45:24,0
+31,24,I'm down,2021-10-27 00:37:47,Guys you should visit this place!!!,2021-10-30 15:04:33,0
+385,5,NO WAAAY!!,2021-10-29 09:11:56,Today was a great day!,2021-10-31 17:09:33,0
+54,21,Have a good day!,2021-10-27 01:10:40,FOOOOOD!,2021-10-29 06:27:08,0
+99,25,I hope so!,2021-10-30 01:36:46,That was dope!,2021-10-26 08:16:02,1
+3,674,NO WAAAY!!,2021-10-27 00:21:16,Today was a great day!,2021-10-30 11:21:25,0
+88,29,How dare you?,2021-10-31 03:20:10,Today was a great day!,2021-10-27 04:12:01,1
+16,22,SURE!,2021-10-28 23:36:32,,,
+54,18,Thank you,2021-10-27 10:05:23,That was dope!,2021-10-27 08:59:53,0
+485,32,I hope so!,2021-10-30 12:02:49,Guys you should visit this place!!!,2021-10-26 05:43:27,0
+284,19,SURE!,2021-10-29 11:41:47,,,
+473,36,Have a good day!,2021-10-31 17:05:44,,,
+19,29,NO WAAAY!!,2021-10-30 11:50:33,Look at this beautiful place!,2021-10-31 10:54:53,0
+24,4,Dude stop doing that,2021-10-29 02:26:17,,,
+4,968,See you later!,2021-10-29 22:23:11,FOOOOOD!,2021-10-30 17:23:36,0
+6,7,I'm down,2021-10-31 10:08:55,Look at my family!,2021-10-27 03:46:17,0
+7,3,Hey,2021-10-31 13:32:37,Today was a great day!,2021-10-31 01:08:05,1
+105,29,NO WAAAY!!,2021-10-27 01:36:24,FOOOOOD!,2021-10-29 14:38:19,1
+684,284,Have a good day!,2021-10-28 01:43:36,,,
+3,160,Its so hard bro,2021-10-27 10:58:24,Guys you should visit this place!!!,2021-10-27 04:31:09,1
+284,23,See you later!,2021-10-30 12:17:49,,,
+265,10,Its so hard bro,2021-10-26 14:06:50,,,
+1,15,See you later!,2021-10-31 04:58:41,Guys you should visit this place!!!,2021-10-28 21:29:57,1
+18,5,Hope you are doing well,2021-10-26 19:35:21,That was dope!,2021-10-31 12:32:37,1
+18,7,I don't know,2021-10-27 20:21:53,That was dope!,2021-10-27 03:26:19,1
+105,484,I'm down,2021-10-27 12:15:29,That was dope!,2021-10-30 21:40:40,1
+1,88,No way!!!!,2021-10-31 05:19:29,Today was a great day!,2021-10-30 06:15:27,0
+596,26,ajajajajajaj,2021-10-27 11:15:14,That was dope!,2021-10-29 02:34:35,0
+105,12,Dude stop doing that,2021-10-31 00:28:20,Today was a great day!,2021-10-29 04:33:41,1
+385,2,Hope you are doing well,2021-10-30 22:29:06,,,
+20,24,How are you?,2021-10-28 12:25:43,Guys you should visit this place!!!,2021-10-30 05:10:18,0
+394,30,Have a good day!,2021-10-29 07:07:06,That was dope!,2021-10-27 01:38:20,1
+28,11,SURE!,2021-10-27 03:44:32,FOOOOOD!,2021-10-26 00:49:34,0
+22,18,Its so hard bro,2021-10-30 00:08:31,,,
+274,21,Its so hard bro,2021-10-29 22:14:50,Today was a great day!,2021-10-30 00:47:44,1
+9,964,Love you!,2021-10-27 05:01:46,That was dope!,2021-10-29 21:12:16,0
+274,6,I don't know,2021-10-29 15:54:14,,,
+394,31,Thank you,2021-10-30 18:03:00,FOOOOOD!,2021-10-26 00:15:00,1
+19,820,Love you!,2021-10-30 02:27:00,Today was a great day!,2021-10-26 03:00:02,0
+265,25,ajajajajajaj,2021-10-29 18:20:40,Guys you should visit this place!!!,2021-10-28 08:26:06,0
+19,54,I don't know,2021-10-27 04:27:01,,,
+265,265,What are you talking about?!,2021-10-30 03:47:55,Look at this beautiful place!,2021-10-29 04:25:25,0
+684,964,Have a good day!,2021-10-30 22:12:19,Today was a great day!,2021-10-29 23:46:32,1
+3,473,I don't know,2021-10-28 18:30:42,Guys you should visit this place!!!,2021-10-31 06:37:25,1
+4,28,I don't know,2021-10-29 14:32:12,Today was a great day!,2021-10-26 09:16:43,0
+394,7,Have a good day!,2021-10-27 05:34:43,That was dope!,2021-10-31 20:21:58,0
+36,485,SURE!,2021-10-31 01:41:08,That was dope!,2021-10-26 22:18:35,0
+265,29,I'm down,2021-10-30 17:43:14,,,
+34,684,Hey,2021-10-27 23:01:04,Look at my family!,2021-10-27 14:00:33,1
+36,24,What are you talking about?!,2021-10-29 20:20:07,,,
+25,23,I don't know,2021-10-28 02:22:49,FOOOOOD!,2021-10-29 20:05:51,0
+27,99,I don't know,2021-10-29 06:16:40,,,
+26,820,Thank you,2021-10-29 07:13:08,Today was a great day!,2021-10-27 09:23:34,1
+13,11,Its so hard bro,2021-10-26 18:06:14,,,
+623,12,ajajajajajaj,2021-10-31 15:37:40,Look at my family!,2021-10-26 23:22:33,1
+385,385,How are you?,2021-10-26 12:18:43,That was dope!,2021-10-27 22:54:11,0
+88,54,Its so hard bro,2021-10-31 10:14:13,Look at this beautiful place!,2021-10-26 07:18:21,0
+8,385,I'm down,2021-10-31 20:55:33,Guys you should visit this place!!!,2021-10-27 16:44:14,1
+284,968,ahahhahahaha,2021-10-30 04:27:38,,,
+105,235,How are you?,2021-10-26 11:20:38,Today was a great day!,2021-10-29 17:27:39,0
+206,473,of course!,2021-10-29 05:53:45,Today was a great day!,2021-10-27 07:19:43,1
+473,30,What are you talking about?!,2021-10-31 19:25:43,FOOOOOD!,2021-10-28 08:59:19,1
+684,11,Its so hard bro,2021-10-31 07:49:21,,,
+22,99,Hope you are doing well,2021-10-27 18:21:09,,,
+1,99,ajajajajajaj,2021-10-30 06:28:57,FOOOOOD!,2021-10-29 18:31:19,1
+472,24,Hey,2021-10-26 21:24:40,That was dope!,2021-10-30 21:44:59,1
+29,820,of course!,2021-10-30 01:00:41,Look at this beautiful place!,2021-10-31 22:26:35,0
+19,12,ahahhahahaha,2021-10-26 02:07:50,Today was a great day!,2021-10-27 17:47:11,0
+15,4,Dude stop doing that,2021-10-30 16:41:37,FOOOOOD!,2021-10-26 10:02:13,1
+7,472,Hey,2021-10-29 19:20:05,,,
+160,385,See you later!,2021-10-26 12:56:46,Today was a great day!,2021-10-26 01:49:20,0
+105,284,ahahhahahaha,2021-10-27 04:02:19,Look at this beautiful place!,2021-10-29 18:24:46,0
+385,820,I hope so!,2021-10-26 02:27:39,,,
+1,19,How dare you?,2021-10-31 23:00:03,Guys you should visit this place!!!,2021-10-27 06:09:08,1
+31,27,How dare you?,2021-10-30 02:44:29,Look at this beautiful place!,2021-10-26 09:03:44,1
+472,385,What are you talking about?!,2021-10-26 09:07:45,FOOOOOD!,2021-10-26 14:04:57,1
+484,394,NO WAAAY!!,2021-10-31 17:08:44,,,
+31,26,ajajajajajaj,2021-10-29 09:46:49,That was dope!,2021-10-29 16:08:23,0
+484,484,Hey,2021-10-31 07:18:08,,,
+385,5,I don't know,2021-10-29 09:06:07,Guys you should visit this place!!!,2021-10-29 09:35:45,0
+176,54,What are you talking about?!,2021-10-28 05:04:26,Today was a great day!,2021-10-26 21:02:45,0
+105,32,Its so hard bro,2021-10-26 05:45:44,Look at this beautiful place!,2021-10-29 17:37:53,0
+394,473,Dude stop doing that,2021-10-27 02:56:39,Guys you should visit this place!!!,2021-10-31 05:39:20,0
+3,484,ajajajajajaj,2021-10-26 04:40:07,Look at my family!,2021-10-29 17:54:04,0
+15,99,I'm down,2021-10-27 08:42:19,Look at my family!,2021-10-28 08:51:04,0
+7,17,How are you?,2021-10-30 16:05:02,FOOOOOD!,2021-10-28 14:29:37,0
+1,176,Hope you are doing well,2021-10-29 01:35:51,Look at this beautiful place!,2021-10-26 19:10:55,1
+29,386,Its so hard bro,2021-10-31 07:40:27,Guys you should visit this place!!!,2021-10-29 02:53:12,1
+10,33,What are you talking about?!,2021-10-27 07:11:00,That was dope!,2021-10-31 19:52:29,1
+88,5,Love you!,2021-10-26 05:40:14,Guys you should visit this place!!!,2021-10-30 21:44:18,0
+12,160,No way!!!!,2021-10-28 17:22:13,Look at this beautiful place!,2021-10-27 04:36:11,0
+14,19,ajajajajajaj,2021-10-31 14:49:35,,,
+7,5,I don't know,2021-10-26 03:57:32,,,
+32,25,Have a good day!,2021-10-28 17:24:39,,,
+235,9,SURE!,2021-10-30 07:27:02,Today was a great day!,2021-10-31 20:41:21,1
+23,99,Hope you are doing well,2021-10-26 17:53:47,Look at my family!,2021-10-29 14:47:51,1
+8,11,ajajajajajaj,2021-10-27 05:15:12,That was dope!,2021-10-28 06:42:49,1
+24,9,Love you!,2021-10-30 21:05:31,Look at my family!,2021-10-27 14:39:37,0
+484,105,I don't know,2021-10-29 10:03:35,,,
+20,28,How dare you?,2021-10-26 11:56:09,Guys you should visit this place!!!,2021-10-28 09:36:53,1
+15,684,Love you!,2021-10-27 04:06:00,FOOOOOD!,2021-10-28 05:10:09,1
+105,34,I don't know,2021-10-28 15:28:09,,,
+5,24,SURE!,2021-10-26 05:51:14,,,
+2,2,No way!!!!,2021-10-31 01:23:36,Today was a great day!,2021-10-29 02:54:28,0
+8,21,No way!!!!,2021-10-26 04:05:21,Guys you should visit this place!!!,2021-10-29 04:01:59,1
+6,24,Dude stop doing that,2021-10-28 04:05:18,Today was a great day!,2021-10-29 06:22:05,0
+8,473,Love you!,2021-10-27 13:18:11,That was dope!,2021-10-31 10:31:26,1
+8,10,How dare you?,2021-10-26 09:05:57,Today was a great day!,2021-10-28 16:12:39,1
+29,385,How dare you?,2021-10-28 09:06:59,FOOOOOD!,2021-10-31 11:34:01,1
+485,473,How are you?,2021-10-29 16:23:02,Look at this beautiful place!,2021-10-31 15:49:42,1
+964,31,I hope so!,2021-10-28 02:56:28,Guys you should visit this place!!!,2021-10-30 18:18:50,0
+34,31,How dare you?,2021-10-27 06:22:21,Look at this beautiful place!,2021-10-31 18:05:34,0
+10,9,Its so hard bro,2021-10-27 21:39:30,FOOOOOD!,2021-10-28 10:10:45,0
+472,160,How are you?,2021-10-29 14:55:21,FOOOOOD!,2021-10-26 05:16:53,1
+22,176,Thank you,2021-10-27 12:16:36,That was dope!,2021-10-27 21:23:56,0
+472,206,of course!,2021-10-31 04:47:57,Guys you should visit this place!!!,2021-10-26 09:16:36,0
+32,36,I'm down,2021-10-27 06:03:36,FOOOOOD!,2021-10-29 14:12:15,0
+45,820,NO WAAAY!!,2021-10-30 04:28:13,Look at my family!,2021-10-27 06:01:46,0
+3,265,How dare you?,2021-10-31 10:31:27,Look at this beautiful place!,2021-10-26 15:23:51,0
+32,968,ajajajajajaj,2021-10-29 14:43:18,Look at this beautiful place!,2021-10-29 14:12:51,0
+15,105,I hope so!,2021-10-27 22:38:26,FOOOOOD!,2021-10-26 17:33:34,1
+15,473,I hope so!,2021-10-26 04:45:45,,,
+88,19,How dare you?,2021-10-28 18:24:43,,,
+14,386,SURE!,2021-10-30 16:59:31,Guys you should visit this place!!!,2021-10-26 18:26:20,1
+34,284,Thank you,2021-10-28 16:11:52,,,
+21,968,I'm down,2021-10-30 05:56:30,FOOOOOD!,2021-10-26 19:37:05,1
+274,473,ahahhahahaha,2021-10-28 00:13:06,Guys you should visit this place!!!,2021-10-27 23:02:55,0
+623,45,ahahhahahaha,2021-10-26 21:39:19,Today was a great day!,2021-10-30 03:49:59,1
+1,394,SURE!,2021-10-29 17:18:20,Look at my family!,2021-10-29 01:24:38,1
+20,21,Thank you,2021-10-29 10:54:20,FOOOOOD!,2021-10-31 22:05:46,0
+176,16,Thank you,2021-10-28 23:19:11,FOOOOOD!,2021-10-26 20:20:54,0
+394,9,I hope so!,2021-10-26 15:35:49,Today was a great day!,2021-10-28 22:23:03,1
+160,45,See you later!,2021-10-28 18:24:20,FOOOOOD!,2021-10-27 04:27:20,0
+473,32,NO WAAAY!!,2021-10-28 00:49:05,Look at my family!,2021-10-31 15:14:55,0
+33,684,ahahhahahaha,2021-10-30 21:37:24,,,
+485,10,Have a good day!,2021-10-28 08:14:29,Today was a great day!,2021-10-27 15:32:04,1
+14,284,ajajajajajaj,2021-10-31 09:33:29,That was dope!,2021-10-26 10:19:56,0
+17,472,Dude stop doing that,2021-10-26 09:30:07,Look at this beautiful place!,2021-10-26 07:34:04,0
+274,13,SURE!,2021-10-30 04:54:14,Guys you should visit this place!!!,2021-10-27 15:20:22,1
+88,16,of course!,2021-10-26 02:30:32,Today was a great day!,2021-10-27 01:01:27,1
+28,1,Hey,2021-10-27 05:55:03,Look at my family!,2021-10-29 08:23:27,1
+20,22,Thank you,2021-10-28 12:26:24,,,
+6,54,Dude stop doing that,2021-10-27 04:57:24,,,
+385,284,Hey,2021-10-27 04:48:18,That was dope!,2021-10-30 01:34:37,0
+9,24,ajajajajajaj,2021-10-28 15:57:22,Look at this beautiful place!,2021-10-28 07:13:48,0
+385,2,How dare you?,2021-10-27 00:44:23,FOOOOOD!,2021-10-27 00:08:19,0
+31,88,Its so hard bro,2021-10-30 14:44:12,Look at this beautiful place!,2021-10-30 19:43:40,0
+16,99,I'm down,2021-10-29 13:46:41,Guys you should visit this place!!!,2021-10-28 00:17:29,0
+9,21,What are you talking about?!,2021-10-31 19:07:43,FOOOOOD!,2021-10-29 15:38:32,0
+19,6,How are you?,2021-10-26 07:16:35,FOOOOOD!,2021-10-30 16:16:56,1
+45,596,Love you!,2021-10-28 00:20:40,FOOOOOD!,2021-10-30 22:37:52,0
+25,623,ahahhahahaha,2021-10-27 02:08:59,Look at this beautiful place!,2021-10-26 21:37:40,1
+4,32,Dude stop doing that,2021-10-26 22:09:13,Look at this beautiful place!,2021-10-31 21:50:04,0
+24,22,Dude stop doing that,2021-10-26 12:18:31,Look at my family!,2021-10-29 08:37:21,1
+17,23,Have a good day!,2021-10-30 15:45:12,Look at this beautiful place!,2021-10-28 20:26:50,0
+29,485,ahahhahahaha,2021-10-30 03:57:30,Guys you should visit this place!!!,2021-10-27 22:31:19,0
+45,8,How are you?,2021-10-26 13:19:19,Guys you should visit this place!!!,2021-10-28 00:38:55,0
+16,596,Dude stop doing that,2021-10-28 14:44:41,That was dope!,2021-10-26 17:12:11,1
+105,33,Love you!,2021-10-29 09:54:42,Guys you should visit this place!!!,2021-10-26 19:40:07,0
+473,31,ahahhahahaha,2021-10-28 20:22:34,Look at this beautiful place!,2021-10-30 20:24:59,1
+274,385,See you later!,2021-10-31 13:26:06,Today was a great day!,2021-10-31 13:57:45,0
+45,29,Dude stop doing that,2021-10-26 11:16:48,Look at my family!,2021-10-26 10:39:16,0
+4,22,I don't know,2021-10-27 08:54:04,That was dope!,2021-10-28 08:27:30,0
+16,235,SURE!,2021-10-28 05:52:08,FOOOOOD!,2021-10-27 06:06:29,0
+54,964,How are you?,2021-10-31 15:31:28,Guys you should visit this place!!!,2021-10-29 13:50:51,1
+9,17,Hey,2021-10-31 08:11:44,Look at this beautiful place!,2021-10-30 13:13:18,0
+596,8,How dare you?,2021-10-28 13:05:59,Look at my family!,2021-10-30 22:11:40,0
+11,33,Thank you,2021-10-30 12:34:52,Guys you should visit this place!!!,2021-10-28 06:24:51,0
+968,485,I don't know,2021-10-26 06:53:08,Look at this beautiful place!,2021-10-29 20:44:35,0
+17,54,What are you talking about?!,2021-10-28 17:01:58,Today was a great day!,2021-10-30 21:40:52,1
+99,23,How dare you?,2021-10-30 10:12:59,Guys you should visit this place!!!,2021-10-26 13:43:01,0
+54,385,No way!!!!,2021-10-27 09:33:43,,,
+25,18,ahahhahahaha,2021-10-30 13:08:23,,,
+386,8,Hope you are doing well,2021-10-30 18:56:38,Guys you should visit this place!!!,2021-10-28 16:06:52,0
+235,21,of course!,2021-10-27 00:51:01,Today was a great day!,2021-10-28 18:12:42,0
+29,385,I don't know,2021-10-26 08:45:15,Look at my family!,2021-10-31 03:19:49,1
+7,394,NO WAAAY!!,2021-10-28 04:01:30,Look at my family!,2021-10-27 14:28:13,0
+26,1,ajajajajajaj,2021-10-27 15:11:27,Look at my family!,2021-10-27 13:22:07,1
+5,964,How dare you?,2021-10-30 03:40:25,Guys you should visit this place!!!,2021-10-28 15:21:26,0
+160,32,NO WAAAY!!,2021-10-30 19:36:37,Look at this beautiful place!,2021-10-28 18:26:20,1
+385,484,See you later!,2021-10-31 15:41:33,Look at my family!,2021-10-29 19:34:09,0
+1,34,NO WAAAY!!,2021-10-28 00:44:53,Look at this beautiful place!,2021-10-31 16:45:19,1
+23,32,Thank you,2021-10-26 10:30:01,,,
+472,596,No way!!!!,2021-10-26 02:15:03,That was dope!,2021-10-27 22:42:32,1
+160,385,How dare you?,2021-10-27 17:19:53,,,
+32,33,Its so hard bro,2021-10-28 17:02:20,Today was a great day!,2021-10-29 00:46:39,1
+385,7,What are you talking about?!,2021-10-31 15:44:54,FOOOOOD!,2021-10-28 20:23:01,0
+206,14,Thank you,2021-10-26 01:26:15,,,
+4,22,Hope you are doing well,2021-10-29 15:59:19,Look at my family!,2021-10-27 20:23:13,0
+24,34,Hey,2021-10-26 17:50:27,Look at my family!,2021-10-30 08:36:07,1
+11,34,Love you!,2021-10-28 17:46:25,That was dope!,2021-10-26 10:54:12,0
+88,473,Thank you,2021-10-28 15:38:39,Guys you should visit this place!!!,2021-10-31 12:12:47,1
+18,13,I hope so!,2021-10-26 07:05:26,,,
+2,160,What are you talking about?!,2021-10-29 03:49:27,Look at my family!,2021-10-31 11:17:20,0
+29,385,No way!!!!,2021-10-31 20:29:04,Today was a great day!,2021-10-29 03:33:05,1
+385,5,Dude stop doing that,2021-10-30 13:51:12,,,
+8,25,SURE!,2021-10-30 09:27:10,Look at my family!,2021-10-29 04:54:19,0
+34,964,How are you?,2021-10-28 05:27:58,,,
+385,11,What are you talking about?!,2021-10-31 20:46:37,Guys you should visit this place!!!,2021-10-28 14:46:33,0
+13,6,of course!,2021-10-31 08:59:30,Today was a great day!,2021-10-29 01:59:04,1
+2,9,Hope you are doing well,2021-10-30 06:09:03,FOOOOOD!,2021-10-30 01:56:29,1
+623,105,Dude stop doing that,2021-10-26 08:30:00,FOOOOOD!,2021-10-31 23:31:47,0
+99,24,I'm down,2021-10-27 04:58:41,,,
+33,5,See you later!,2021-10-29 18:34:27,,,
+968,176,Love you!,2021-10-26 11:04:33,Look at this beautiful place!,2021-10-26 20:04:35,1
+964,25,Its so hard bro,2021-10-27 01:35:59,,,
+472,27,Its so hard bro,2021-10-27 15:51:22,Today was a great day!,2021-10-31 07:42:39,1
+6,10,Its so hard bro,2021-10-28 02:22:23,Guys you should visit this place!!!,2021-10-28 14:09:40,0
+15,32,See you later!,2021-10-29 07:11:19,Look at this beautiful place!,2021-10-28 12:41:31,1
+265,20,How dare you?,2021-10-27 10:54:57,Look at this beautiful place!,2021-10-28 16:29:51,0
+32,30,See you later!,2021-10-26 23:45:54,Look at my family!,2021-10-31 00:53:24,1
+36,33,I'm down,2021-10-31 03:22:19,Guys you should visit this place!!!,2021-10-29 21:37:56,0
+596,11,How dare you?,2021-10-26 00:38:55,That was dope!,2021-10-29 23:30:22,0
+15,9,Hey,2021-10-30 09:52:15,Guys you should visit this place!!!,2021-10-27 16:14:33,1
+10,484,Its so hard bro,2021-10-28 11:26:05,Look at this beautiful place!,2021-10-31 21:07:25,1
+394,23,I don't know,2021-10-29 08:10:24,Today was a great day!,2021-10-29 18:03:58,1
+36,385,of course!,2021-10-29 21:26:01,Look at this beautiful place!,2021-10-30 12:06:11,1
+33,5,No way!!!!,2021-10-28 22:48:07,,,
+385,10,SURE!,2021-10-26 08:13:36,,,
+36,6,What are you talking about?!,2021-10-29 13:10:20,Look at my family!,2021-10-28 18:25:58,0
+820,964,I hope so!,2021-10-29 12:58:07,Look at this beautiful place!,2021-10-31 10:23:49,1
+17,27,Its so hard bro,2021-10-30 13:36:06,Look at this beautiful place!,2021-10-28 19:55:42,0
+160,105,ajajajajajaj,2021-10-26 03:12:35,,,
+964,1,I'm down,2021-10-26 19:43:06,FOOOOOD!,2021-10-31 16:29:43,0
+105,29,See you later!,2021-10-27 17:24:07,Look at this beautiful place!,2021-10-29 13:54:15,1
+15,21,How are you?,2021-10-31 13:41:50,Look at this beautiful place!,2021-10-30 04:53:44,1
+394,36,How dare you?,2021-10-27 14:17:32,,,
+28,27,What are you talking about?!,2021-10-27 02:15:58,Guys you should visit this place!!!,2021-10-27 16:36:16,1
+34,596,Thank you,2021-10-28 02:10:57,Look at this beautiful place!,2021-10-28 04:34:16,1
+16,20,Have a good day!,2021-10-26 00:37:22,,,
+274,30,I hope so!,2021-10-29 06:04:57,Guys you should visit this place!!!,2021-10-31 01:00:29,0
+4,596,Dude stop doing that,2021-10-31 12:19:00,FOOOOOD!,2021-10-29 20:39:06,1
+21,7,Thank you,2021-10-30 04:40:07,FOOOOOD!,2021-10-30 22:17:51,0
+176,13,ahahhahahaha,2021-10-31 22:46:19,Look at my family!,2021-10-30 03:17:24,1
+21,623,How are you?,2021-10-30 15:58:35,Guys you should visit this place!!!,2021-10-28 06:01:54,1
+26,31,NO WAAAY!!,2021-10-30 10:32:27,Guys you should visit this place!!!,2021-10-27 17:49:48,1
+6,3,I'm down,2021-10-26 14:27:54,,,
+968,274,SURE!,2021-10-31 11:00:16,Look at this beautiful place!,2021-10-31 23:36:31,1
+88,274,ajajajajajaj,2021-10-30 23:50:56,,,
+385,22,I'm down,2021-10-26 11:02:42,Guys you should visit this place!!!,2021-10-30 12:46:55,1
+12,17,Love you!,2021-10-26 15:01:26,Today was a great day!,2021-10-29 04:43:52,1
+206,25,Love you!,2021-10-28 22:36:52,Today was a great day!,2021-10-28 06:16:36,0
+160,11,of course!,2021-10-29 08:50:20,Guys you should visit this place!!!,2021-10-30 18:24:50,0
+964,22,I hope so!,2021-10-31 16:38:02,Guys you should visit this place!!!,2021-10-27 21:36:57,0
+24,2,No way!!!!,2021-10-30 01:17:42,Look at my family!,2021-10-31 00:32:12,0
+206,235,Hey,2021-10-28 19:00:00,,,
+27,23,I'm down,2021-10-27 04:14:05,That was dope!,2021-10-29 01:45:15,0
+160,12,I hope so!,2021-10-26 12:28:51,Look at my family!,2021-10-28 18:50:35,0
+24,176,Dude stop doing that,2021-10-30 23:26:08,Today was a great day!,2021-10-28 21:19:41,0
+20,385,Hope you are doing well,2021-10-31 20:29:37,Guys you should visit this place!!!,2021-10-27 06:30:57,0
+88,596,No way!!!!,2021-10-26 05:18:59,,,
+472,29,Love you!,2021-10-28 05:42:02,Look at this beautiful place!,2021-10-31 07:49:41,0
+674,18,Hey,2021-10-26 00:52:59,,,
+17,20,See you later!,2021-10-27 17:14:37,Look at this beautiful place!,2021-10-29 08:44:17,0
+206,274,Thank you,2021-10-27 05:10:01,Look at this beautiful place!,2021-10-28 03:30:10,0
+684,2,ajajajajajaj,2021-10-30 10:05:19,,,
+34,88,Hope you are doing well,2021-10-31 09:00:57,That was dope!,2021-10-30 02:02:08,0
+385,16,NO WAAAY!!,2021-10-26 22:15:57,Look at this beautiful place!,2021-10-29 03:18:48,0
+17,12,ahahhahahaha,2021-10-27 05:54:02,Look at this beautiful place!,2021-10-27 17:49:16,1
+623,473,I'm down,2021-10-30 19:35:58,Look at my family!,2021-10-30 13:31:28,0
+964,5,SURE!,2021-10-28 21:46:50,Look at this beautiful place!,2021-10-29 21:00:25,1
+623,284,I don't know,2021-10-30 12:51:55,,,
+8,27,Have a good day!,2021-10-28 19:17:34,Today was a great day!,2021-10-30 21:51:43,0
+26,484,NO WAAAY!!,2021-10-29 06:37:45,,,
+968,31,Dude stop doing that,2021-10-31 09:24:59,FOOOOOD!,2021-10-30 08:01:28,0
+12,18,I'm down,2021-10-27 21:40:13,Guys you should visit this place!!!,2021-10-28 22:46:32,0
+472,596,Dude stop doing that,2021-10-28 10:23:31,That was dope!,2021-10-27 06:56:46,0
+176,284,I hope so!,2021-10-26 13:14:49,Look at this beautiful place!,2021-10-28 19:34:47,1
+1,33,I don't know,2021-10-31 15:29:55,Look at this beautiful place!,2021-10-28 07:53:53,1
+18,45,Love you!,2021-10-28 22:38:56,Look at my family!,2021-10-26 18:47:56,1
+485,34,Dude stop doing that,2021-10-30 15:43:45,That was dope!,2021-10-27 14:59:28,1
+27,2,I don't know,2021-10-29 19:24:33,Today was a great day!,2021-10-30 13:24:20,1
+674,15,Love you!,2021-10-31 17:39:25,FOOOOOD!,2021-10-29 22:24:15,1
+13,176,Love you!,2021-10-29 21:55:00,,,
+33,15,Dude stop doing that,2021-10-30 17:44:57,That was dope!,2021-10-30 20:09:33,1
+13,88,Hope you are doing well,2021-10-27 16:12:01,Today was a great day!,2021-10-31 01:52:28,0
+45,10,Have a good day!,2021-10-31 21:09:29,,,
+4,27,of course!,2021-10-29 09:14:46,FOOOOOD!,2021-10-29 16:48:45,1
+13,30,I'm down,2021-10-26 22:24:07,,,
+2,24,SURE!,2021-10-30 03:50:49,Look at this beautiful place!,2021-10-28 08:06:32,1
+485,11,How are you?,2021-10-29 05:18:08,,,
+485,684,Hope you are doing well,2021-10-31 21:54:25,Look at this beautiful place!,2021-10-30 23:38:18,1
+32,17,NO WAAAY!!,2021-10-30 02:33:41,Look at this beautiful place!,2021-10-30 18:55:03,1
+394,30,I'm down,2021-10-28 16:34:58,Guys you should visit this place!!!,2021-10-29 06:10:57,0
+10,24,NO WAAAY!!,2021-10-30 09:45:49,Today was a great day!,2021-10-26 10:40:49,0
+54,10,ahahhahahaha,2021-10-28 04:43:58,Look at this beautiful place!,2021-10-26 06:09:56,1
+385,6,Hope you are doing well,2021-10-26 09:06:10,Guys you should visit this place!!!,2021-10-26 12:34:19,1
+20,3,I'm down,2021-10-29 13:14:48,That was dope!,2021-10-30 16:18:06,0
+88,5,ahahhahahaha,2021-10-31 13:23:13,Look at my family!,2021-10-30 19:48:00,1
+2,21,Its so hard bro,2021-10-30 11:12:49,Today was a great day!,2021-10-30 15:02:59,1
+284,88,Hey,2021-10-28 13:22:04,Look at my family!,2021-10-30 07:09:55,0
+36,274,Thank you,2021-10-26 23:55:52,Look at this beautiful place!,2021-10-31 16:54:31,1
+485,15,Hey,2021-10-29 06:27:06,Guys you should visit this place!!!,2021-10-29 15:20:23,0
+11,4,See you later!,2021-10-31 16:21:35,Today was a great day!,2021-10-26 12:41:17,0
+472,10,Its so hard bro,2021-10-31 06:41:52,,,
+674,684,I hope so!,2021-10-31 17:42:38,Today was a great day!,2021-10-26 13:27:48,1
+20,473,Thank you,2021-10-30 18:01:32,Today was a great day!,2021-10-26 18:04:34,1
+34,30,SURE!,2021-10-30 22:32:34,,,
+1,88,Hope you are doing well,2021-10-28 09:43:05,FOOOOOD!,2021-10-28 11:45:47,0
+36,6,Hey,2021-10-29 06:07:33,Look at this beautiful place!,2021-10-31 13:15:06,1
+27,472,ahahhahahaha,2021-10-27 16:23:35,That was dope!,2021-10-26 13:20:54,1
+19,9,How are you?,2021-10-28 23:59:54,FOOOOOD!,2021-10-30 03:34:33,1
+21,12,Have a good day!,2021-10-31 06:34:00,FOOOOOD!,2021-10-30 18:05:06,1
+968,34,Thank you,2021-10-29 03:29:43,,,
+7,596,What are you talking about?!,2021-10-27 14:58:06,,,
+674,30,Love you!,2021-10-30 17:27:23,,,
+473,33,I don't know,2021-10-27 06:12:47,Today was a great day!,2021-10-27 20:48:53,0
+27,8,SURE!,2021-10-28 02:39:43,That was dope!,2021-10-27 21:10:46,1
+9,235,Dude stop doing that,2021-10-30 13:05:51,Look at my family!,2021-10-30 02:12:41,1
+596,25,I don't know,2021-10-28 01:32:15,Look at this beautiful place!,2021-10-28 14:42:53,0
+10,2,Love you!,2021-10-30 16:34:08,FOOOOOD!,2021-10-26 06:37:42,0
+33,968,Its so hard bro,2021-10-27 13:25:31,Look at this beautiful place!,2021-10-28 08:13:30,0
+21,12,How are you?,2021-10-30 19:32:30,Today was a great day!,2021-10-29 00:18:34,1
+10,684,Dude stop doing that,2021-10-26 12:55:26,FOOOOOD!,2021-10-27 08:53:56,1
+30,24,Its so hard bro,2021-10-29 04:22:03,,,
+28,284,ajajajajajaj,2021-10-26 07:44:18,Guys you should visit this place!!!,2021-10-29 21:56:18,0
+32,18,Its so hard bro,2021-10-29 01:46:20,That was dope!,2021-10-31 07:05:58,1
+5,29,Hey,2021-10-26 02:44:35,FOOOOOD!,2021-10-26 16:22:38,0
+968,11,NO WAAAY!!,2021-10-28 05:02:06,Guys you should visit this place!!!,2021-10-31 21:02:16,1
+16,8,ahahhahahaha,2021-10-28 12:05:11,FOOOOOD!,2021-10-26 13:10:03,1
+32,485,Have a good day!,2021-10-29 14:44:46,Guys you should visit this place!!!,2021-10-26 03:08:27,0
+22,820,ahahhahahaha,2021-10-30 21:55:57,Today was a great day!,2021-10-29 23:40:12,1
+820,32,Hey,2021-10-27 22:13:25,Look at this beautiful place!,2021-10-28 18:36:23,0
+88,13,I'm down,2021-10-26 01:12:58,Today was a great day!,2021-10-27 18:31:48,0
+2,27,Hope you are doing well,2021-10-27 05:26:43,FOOOOOD!,2021-10-29 13:52:06,0
+45,27,How are you?,2021-10-27 00:33:10,Guys you should visit this place!!!,2021-10-27 06:04:26,1
+34,684,Love you!,2021-10-29 13:23:07,Today was a great day!,2021-10-28 21:29:19,0
+17,5,Love you!,2021-10-30 06:07:17,Look at this beautiful place!,2021-10-28 04:07:56,1
+54,24,of course!,2021-10-30 16:06:40,FOOOOOD!,2021-10-30 22:52:06,1
+105,674,ajajajajajaj,2021-10-26 20:06:42,Today was a great day!,2021-10-29 00:00:41,1
+28,15,No way!!!!,2021-10-30 22:00:18,,,
+36,485,No way!!!!,2021-10-27 12:22:29,Look at my family!,2021-10-30 11:15:29,1
+19,6,What are you talking about?!,2021-10-29 05:58:01,Look at my family!,2021-10-29 14:50:40,0
+235,160,Thank you,2021-10-31 13:36:28,,,
+265,34,Hope you are doing well,2021-10-30 02:31:15,Look at this beautiful place!,2021-10-27 13:25:13,0
+88,472,I'm down,2021-10-26 02:28:29,Look at my family!,2021-10-27 08:57:51,1
+6,596,How dare you?,2021-10-28 05:02:14,Look at this beautiful place!,2021-10-26 00:42:49,0
+265,8,of course!,2021-10-30 14:58:52,,,
+472,473,See you later!,2021-10-31 19:06:15,Today was a great day!,2021-10-29 13:57:46,0
+5,16,Hope you are doing well,2021-10-27 22:10:51,FOOOOOD!,2021-10-29 22:33:32,1
+235,385,ajajajajajaj,2021-10-28 02:39:29,Guys you should visit this place!!!,2021-10-26 02:46:00,1
+820,11,No way!!!!,2021-10-28 10:22:10,FOOOOOD!,2021-10-30 05:19:13,0
+26,7,SURE!,2021-10-26 04:49:47,,,
+684,21,Dude stop doing that,2021-10-26 00:01:07,Look at my family!,2021-10-28 11:58:49,1
+36,28,Love you!,2021-10-30 01:42:58,Look at my family!,2021-10-28 22:59:02,0
+19,9,Hope you are doing well,2021-10-27 12:34:50,Today was a great day!,2021-10-26 20:06:49,0
+19,99,SURE!,2021-10-29 15:02:55,Look at this beautiful place!,2021-10-31 13:30:08,1
+20,1,No way!!!!,2021-10-30 04:52:49,Look at my family!,2021-10-29 11:59:27,1
+23,472,Hope you are doing well,2021-10-30 17:08:41,Look at my family!,2021-10-28 17:26:36,1
+36,820,What are you talking about?!,2021-10-29 03:56:53,FOOOOOD!,2021-10-29 17:01:56,0
+5,968,of course!,2021-10-26 13:25:05,Look at my family!,2021-10-28 05:14:02,0
+11,24,SURE!,2021-10-26 16:57:29,Look at this beautiful place!,2021-10-31 09:05:20,0
+1,32,See you later!,2021-10-30 12:02:13,Look at this beautiful place!,2021-10-31 23:26:09,1
+968,385,ajajajajajaj,2021-10-27 04:07:50,Look at this beautiful place!,2021-10-28 07:29:57,0
+3,623,Its so hard bro,2021-10-30 09:08:23,Look at my family!,2021-10-28 23:42:38,1
+24,11,ahahhahahaha,2021-10-30 03:47:16,Look at this beautiful place!,2021-10-28 20:08:57,0
+21,7,NO WAAAY!!,2021-10-26 14:14:10,That was dope!,2021-10-28 19:55:38,0
+1,31,How are you?,2021-10-29 01:35:10,Guys you should visit this place!!!,2021-10-27 00:09:32,1
+105,596,Love you!,2021-10-30 18:44:30,FOOOOOD!,2021-10-28 05:21:37,1
+31,22,I'm down,2021-10-31 16:42:15,Look at this beautiful place!,2021-10-26 02:49:59,0
+22,160,I hope so!,2021-10-28 20:02:30,,,
+684,54,What are you talking about?!,2021-10-26 13:22:46,That was dope!,2021-10-28 04:31:37,1
+484,54,SURE!,2021-10-26 11:05:27,Look at my family!,2021-10-28 23:33:24,1
+14,235,Dude stop doing that,2021-10-31 16:55:30,That was dope!,2021-10-26 08:55:28,1
+160,19,Its so hard bro,2021-10-31 21:11:32,,,
+17,20,of course!,2021-10-29 16:39:16,Look at this beautiful place!,2021-10-31 12:39:20,1
+28,20,Have a good day!,2021-10-29 19:46:10,,,
+2,473,I hope so!,2021-10-29 11:09:41,Look at this beautiful place!,2021-10-31 12:49:52,0
+2,54,What are you talking about?!,2021-10-27 13:23:49,Guys you should visit this place!!!,2021-10-31 21:58:30,1
+45,105,I hope so!,2021-10-30 05:00:18,Look at this beautiful place!,2021-10-30 23:42:37,1
+17,274,Thank you,2021-10-30 13:03:04,Today was a great day!,2021-10-31 08:12:21,1
+6,19,I don't know,2021-10-26 21:52:14,That was dope!,2021-10-26 22:37:54,0
+964,99,Hey,2021-10-27 20:05:28,Guys you should visit this place!!!,2021-10-31 22:58:12,1
+1,484,What are you talking about?!,2021-10-31 06:31:31,Guys you should visit this place!!!,2021-10-27 19:22:54,1
+484,274,I don't know,2021-10-29 09:50:54,That was dope!,2021-10-27 14:14:24,1
+284,34,ahahhahahaha,2021-10-28 10:08:57,Look at this beautiful place!,2021-10-30 00:22:23,1
+99,33,Hey,2021-10-30 14:37:05,,,
+1,10,How dare you?,2021-10-26 04:37:50,Today was a great day!,2021-10-26 21:58:48,1
+11,5,Love you!,2021-10-29 22:12:17,,,
+33,20,of course!,2021-10-28 13:17:32,,,
+16,274,Hope you are doing well,2021-10-30 04:00:15,FOOOOOD!,2021-10-30 15:01:23,1
+473,684,How dare you?,2021-10-31 02:28:37,Today was a great day!,2021-10-30 17:41:39,0
+36,16,ahahhahahaha,2021-10-31 08:54:36,Look at my family!,2021-10-30 13:17:28,1
+21,6,ahahhahahaha,2021-10-26 04:16:17,Look at my family!,2021-10-27 10:15:45,1
+31,2,Hey,2021-10-29 05:21:27,,,
+54,160,Hope you are doing well,2021-10-28 20:06:20,FOOOOOD!,2021-10-27 18:38:43,0
+386,11,How are you?,2021-10-31 04:34:50,Look at this beautiful place!,2021-10-30 08:50:27,0
+160,968,Its so hard bro,2021-10-31 10:43:56,Today was a great day!,2021-10-31 09:32:17,1
+45,472,Its so hard bro,2021-10-28 02:56:28,That was dope!,2021-10-28 17:17:35,1
+13,19,ahahhahahaha,2021-10-31 17:40:27,Look at my family!,2021-10-30 22:49:56,0
+26,28,Have a good day!,2021-10-29 10:46:32,,,
+484,1,Dude stop doing that,2021-10-29 11:49:17,FOOOOOD!,2021-10-31 10:36:21,1
+684,176,SURE!,2021-10-30 22:07:38,Look at this beautiful place!,2021-10-29 10:14:27,1
+235,596,I don't know,2021-10-29 03:41:32,FOOOOOD!,2021-10-26 04:49:09,0
+6,484,Its so hard bro,2021-10-28 12:13:17,That was dope!,2021-10-28 01:02:11,1
+32,105,I hope so!,2021-10-31 00:19:44,,,
+29,22,No way!!!!,2021-10-26 01:38:15,Look at this beautiful place!,2021-10-29 16:58:26,0
+88,684,NO WAAAY!!,2021-10-31 23:53:43,Guys you should visit this place!!!,2021-10-31 02:24:09,1
+31,28,How are you?,2021-10-26 02:36:46,Look at my family!,2021-10-30 16:22:20,1
+160,265,NO WAAAY!!,2021-10-28 21:03:50,That was dope!,2021-10-27 13:13:59,0
+22,13,Hey,2021-10-28 17:06:24,FOOOOOD!,2021-10-30 10:26:47,0
+22,820,of course!,2021-10-26 22:30:43,Today was a great day!,2021-10-31 01:22:17,0
+21,1,No way!!!!,2021-10-31 05:06:38,Look at this beautiful place!,2021-10-28 23:28:25,1
+8,5,What are you talking about?!,2021-10-29 07:18:39,That was dope!,2021-10-28 04:16:21,0
+5,473,I'm down,2021-10-26 01:01:50,Look at my family!,2021-10-31 10:48:19,1
+19,206,of course!,2021-10-28 01:20:14,,,
+4,485,Hey,2021-10-30 14:36:00,Today was a great day!,2021-10-28 20:53:49,0
+206,176,See you later!,2021-10-30 19:00:24,That was dope!,2021-10-31 04:40:08,0
+9,274,Its so hard bro,2021-10-29 22:06:54,Guys you should visit this place!!!,2021-10-30 14:38:24,1
+394,20,Thank you,2021-10-31 11:07:23,Look at this beautiful place!,2021-10-29 02:03:22,1
+32,25,Love you!,2021-10-28 09:12:05,,,
+23,99,NO WAAAY!!,2021-10-29 09:10:39,Guys you should visit this place!!!,2021-10-27 03:39:13,1
+385,206,See you later!,2021-10-26 16:30:43,Look at this beautiful place!,2021-10-29 20:59:12,0
+32,8,Hope you are doing well,2021-10-30 00:20:38,,,
+26,17,Hope you are doing well,2021-10-30 12:35:45,,,
+684,394,I hope so!,2021-10-26 02:33:38,That was dope!,2021-10-28 02:12:36,1
+274,6,How dare you?,2021-10-29 08:15:13,Look at my family!,2021-10-31 09:10:51,0
+265,12,Thank you,2021-10-26 04:19:56,Look at this beautiful place!,2021-10-28 20:08:18,1
+160,19,I don't know,2021-10-31 04:33:21,Look at this beautiful place!,2021-10-31 14:59:22,1
+596,28,I hope so!,2021-10-30 21:46:14,Look at this beautiful place!,2021-10-27 06:55:09,0
+17,394,Its so hard bro,2021-10-29 18:56:26,That was dope!,2021-10-26 01:14:20,1
+10,274,How are you?,2021-10-28 06:46:42,Look at my family!,2021-10-30 19:04:41,1
+8,11,Hey,2021-10-28 06:11:41,Look at this beautiful place!,2021-10-28 08:23:15,1
+472,176,See you later!,2021-10-27 19:10:16,,,
+284,16,Dude stop doing that,2021-10-27 05:32:27,That was dope!,2021-10-28 12:38:44,1
+5,485,Hope you are doing well,2021-10-27 07:42:45,Today was a great day!,2021-10-26 02:25:43,0
+2,485,How dare you?,2021-10-30 17:23:50,Today was a great day!,2021-10-31 21:43:17,0
+99,2,How are you?,2021-10-26 12:36:18,FOOOOOD!,2021-10-28 09:50:28,1
+15,99,Thank you,2021-10-31 09:25:09,That was dope!,2021-10-29 08:39:44,1
+623,12,Hope you are doing well,2021-10-27 17:06:04,,,
+10,176,I don't know,2021-10-26 04:58:00,Guys you should visit this place!!!,2021-10-27 03:11:46,1
+17,27,Dude stop doing that,2021-10-30 20:22:02,Look at my family!,2021-10-30 01:29:33,0
+964,14,Hope you are doing well,2021-10-26 16:33:22,Today was a great day!,2021-10-29 19:28:54,0
+27,385,Have a good day!,2021-10-28 13:13:47,Look at my family!,2021-10-29 12:02:39,1
+274,9,No way!!!!,2021-10-31 02:26:09,FOOOOOD!,2021-10-27 00:08:53,0
+11,8,SURE!,2021-10-28 11:07:36,Look at this beautiful place!,2021-10-26 14:58:25,0
+29,1,NO WAAAY!!,2021-10-31 08:27:19,Look at my family!,2021-10-31 21:35:26,1
+265,32,No way!!!!,2021-10-27 23:55:09,Look at my family!,2021-10-26 21:50:53,1
+27,31,Hope you are doing well,2021-10-31 05:22:18,Today was a great day!,2021-10-31 20:40:39,0
+964,206,ahahhahahaha,2021-10-26 08:08:11,,,
+20,206,ahahhahahaha,2021-10-31 12:46:44,Guys you should visit this place!!!,2021-10-26 20:45:28,0
+964,34,I hope so!,2021-10-31 14:08:19,That was dope!,2021-10-28 06:48:06,1
+26,34,ajajajajajaj,2021-10-28 02:07:44,Guys you should visit this place!!!,2021-10-30 17:06:54,1
+473,34,See you later!,2021-10-28 12:22:42,,,
+16,274,SURE!,2021-10-28 21:32:55,Today was a great day!,2021-10-28 02:32:11,1
+7,4,Thank you,2021-10-26 07:22:54,,,
+28,16,No way!!!!,2021-10-28 00:05:00,Today was a great day!,2021-10-29 08:08:35,1
+36,206,Have a good day!,2021-10-31 01:48:05,FOOOOOD!,2021-10-26 16:01:13,1
+17,596,No way!!!!,2021-10-30 01:59:31,,,
+473,18,What are you talking about?!,2021-10-30 21:17:40,Today was a great day!,2021-10-28 06:17:34,1
+11,32,Hope you are doing well,2021-10-26 07:11:00,Look at my family!,2021-10-31 03:24:14,0
+18,27,No way!!!!,2021-10-30 14:16:26,That was dope!,2021-10-30 04:51:47,1
+10,473,I don't know,2021-10-30 14:34:21,,,
+265,16,Hey,2021-10-26 14:56:14,FOOOOOD!,2021-10-31 16:40:08,0
+3,45,Dude stop doing that,2021-10-31 03:15:58,Guys you should visit this place!!!,2021-10-28 16:05:09,0
+8,12,Thank you,2021-10-31 07:30:05,That was dope!,2021-10-30 18:53:33,0
+386,484,I'm down,2021-10-31 22:14:05,FOOOOOD!,2021-10-30 10:37:26,0
+33,32,ahahhahahaha,2021-10-26 11:53:09,Look at this beautiful place!,2021-10-30 12:06:56,0
+4,964,NO WAAAY!!,2021-10-29 22:56:19,Guys you should visit this place!!!,2021-10-31 19:31:20,1
+17,10,Hey,2021-10-26 16:52:22,Look at this beautiful place!,2021-10-31 00:01:05,0
+473,27,SURE!,2021-10-26 00:50:33,FOOOOOD!,2021-10-27 17:16:06,0
+472,176,I hope so!,2021-10-30 10:14:04,Look at my family!,2021-10-28 23:04:06,0
+24,16,Hope you are doing well,2021-10-28 10:26:48,FOOOOOD!,2021-10-30 13:15:43,1
+23,265,Thank you,2021-10-30 07:34:08,Today was a great day!,2021-10-26 17:25:35,1
+36,9,No way!!!!,2021-10-26 12:55:49,FOOOOOD!,2021-10-27 13:52:40,1
+206,5,I don't know,2021-10-28 03:17:11,Today was a great day!,2021-10-29 07:34:20,1
+21,20,Hope you are doing well,2021-10-30 17:14:20,,,
+473,9,What are you talking about?!,2021-10-30 23:14:47,Look at this beautiful place!,2021-10-28 01:35:59,1
+18,29,Dude stop doing that,2021-10-31 04:50:59,Look at my family!,2021-10-27 06:02:29,1
+10,674,Its so hard bro,2021-10-27 05:56:27,That was dope!,2021-10-30 17:14:12,0
+23,473,ajajajajajaj,2021-10-30 23:59:51,Look at this beautiful place!,2021-10-27 11:41:56,1
+6,16,What are you talking about?!,2021-10-28 23:33:40,Look at my family!,2021-10-27 08:22:50,1
+99,160,Its so hard bro,2021-10-26 02:43:26,Look at my family!,2021-10-27 10:47:16,1
+33,3,How are you?,2021-10-31 03:20:21,Look at this beautiful place!,2021-10-30 01:44:54,1
+12,386,Hey,2021-10-26 23:33:18,,,
+394,15,How are you?,2021-10-29 05:34:45,Today was a great day!,2021-10-28 00:46:26,1
+160,31,How dare you?,2021-10-27 13:40:25,FOOOOOD!,2021-10-27 21:05:03,0
+25,19,Its so hard bro,2021-10-30 12:10:34,Today was a great day!,2021-10-31 22:12:13,0
+54,274,Hey,2021-10-27 11:56:11,That was dope!,2021-10-26 21:50:21,0
+20,160,Love you!,2021-10-26 12:10:19,Today was a great day!,2021-10-30 07:43:39,1
+13,21,Have a good day!,2021-10-26 07:13:30,,,
+964,485,Love you!,2021-10-26 14:08:53,FOOOOOD!,2021-10-26 05:49:54,1
+105,11,Hey,2021-10-26 01:02:01,,,
+10,820,SURE!,2021-10-28 16:22:09,,,
+16,88,Dude stop doing that,2021-10-28 01:11:26,That was dope!,2021-10-26 07:35:21,1
+160,36,Thank you,2021-10-30 05:24:10,Today was a great day!,2021-10-31 09:33:19,1
+15,54,ajajajajajaj,2021-10-26 20:50:14,That was dope!,2021-10-26 03:33:57,1
+13,9,I hope so!,2021-10-30 00:18:21,Look at this beautiful place!,2021-10-28 20:34:19,1
+26,235,What are you talking about?!,2021-10-29 20:31:07,Guys you should visit this place!!!,2021-10-31 16:17:32,0
+385,25,of course!,2021-10-28 08:50:38,Today was a great day!,2021-10-29 08:18:04,1
+235,176,Thank you,2021-10-26 01:51:04,,,
+1,160,How are you?,2021-10-31 04:33:21,Today was a great day!,2021-10-26 08:15:51,1
+26,284,SURE!,2021-10-26 04:34:07,FOOOOOD!,2021-10-28 14:07:47,1
+176,623,NO WAAAY!!,2021-10-28 11:23:07,Today was a great day!,2021-10-30 20:36:28,0
+968,968,See you later!,2021-10-26 12:07:36,FOOOOOD!,2021-10-28 18:11:57,1
+160,23,How dare you?,2021-10-28 20:27:16,Look at this beautiful place!,2021-10-28 16:42:14,0
+20,596,Hey,2021-10-31 04:43:59,Look at this beautiful place!,2021-10-30 16:40:07,0
+105,21,I hope so!,2021-10-29 01:09:53,FOOOOOD!,2021-10-29 00:56:08,1
+160,3,No way!!!!,2021-10-28 11:15:08,Guys you should visit this place!!!,2021-10-30 04:24:42,0
+29,674,Thank you,2021-10-30 16:43:17,,,
+45,684,Hey,2021-10-29 10:42:30,Today was a great day!,2021-10-27 17:03:23,0
+473,473,I hope so!,2021-10-29 15:29:37,That was dope!,2021-10-31 11:48:24,0
+284,19,of course!,2021-10-30 20:29:02,Look at my family!,2021-10-27 08:46:28,1
+12,684,I'm down,2021-10-28 09:56:05,,,
+32,284,Hope you are doing well,2021-10-31 07:00:22,Guys you should visit this place!!!,2021-10-26 17:19:03,0
+16,54,I'm down,2021-10-30 00:56:23,,,
+206,20,NO WAAAY!!,2021-10-31 20:40:49,Today was a great day!,2021-10-30 15:26:46,0
+36,235,See you later!,2021-10-30 02:55:37,Look at my family!,2021-10-31 05:46:06,0
+968,31,Hope you are doing well,2021-10-31 12:37:13,,,
+14,32,See you later!,2021-10-29 05:16:06,That was dope!,2021-10-31 11:17:07,0
+10,14,ajajajajajaj,2021-10-26 05:47:29,Look at my family!,2021-10-30 04:25:57,0
+473,31,Its so hard bro,2021-10-30 14:43:31,Today was a great day!,2021-10-26 19:19:26,1
+385,105,I'm down,2021-10-28 12:17:24,That was dope!,2021-10-26 08:36:24,0
+235,105,What are you talking about?!,2021-10-29 20:40:30,That was dope!,2021-10-26 19:55:03,1
+34,32,NO WAAAY!!,2021-10-26 14:11:28,Today was a great day!,2021-10-28 11:49:08,1
+394,27,I don't know,2021-10-30 20:53:07,That was dope!,2021-10-26 05:48:21,1
+964,36,Hope you are doing well,2021-10-27 20:48:21,FOOOOOD!,2021-10-29 17:29:33,0
+3,485,Dude stop doing that,2021-10-30 06:42:20,Look at my family!,2021-10-29 10:26:51,0
+22,485,Thank you,2021-10-29 17:18:50,Look at this beautiful place!,2021-10-28 18:22:48,0
+45,23,See you later!,2021-10-31 00:49:05,Look at my family!,2021-10-29 11:50:28,1
+385,17,I don't know,2021-10-31 05:02:54,Today was a great day!,2021-10-28 19:14:19,1
+596,88,Have a good day!,2021-10-30 20:38:40,,,
+8,18,NO WAAAY!!,2021-10-28 19:13:41,FOOOOOD!,2021-10-30 10:03:26,1
+265,88,Its so hard bro,2021-10-27 21:22:01,,,
+29,105,What are you talking about?!,2021-10-28 10:38:54,,,
+386,18,SURE!,2021-10-27 01:58:40,,,
+36,34,No way!!!!,2021-10-29 06:49:39,,,
+235,32,Thank you,2021-10-28 02:46:45,Guys you should visit this place!!!,2021-10-28 23:36:55,1
+54,18,Hope you are doing well,2021-10-28 23:55:39,FOOOOOD!,2021-10-30 13:22:53,1
+31,29,I don't know,2021-10-28 23:59:33,,,
+10,674,Dude stop doing that,2021-10-27 19:04:15,Today was a great day!,2021-10-27 03:58:02,0
+23,54,How dare you?,2021-10-30 23:22:45,Today was a great day!,2021-10-28 07:41:46,1
+385,385,SURE!,2021-10-26 08:05:37,That was dope!,2021-10-29 17:43:28,1
+394,23,I hope so!,2021-10-31 10:06:48,Today was a great day!,2021-10-28 20:27:28,0
+394,45,Hey,2021-10-26 10:26:44,That was dope!,2021-10-26 10:46:14,0
+274,34,Love you!,2021-10-30 04:39:07,Guys you should visit this place!!!,2021-10-28 12:11:05,1
+25,15,What are you talking about?!,2021-10-30 15:17:56,,,
+8,16,ajajajajajaj,2021-10-29 10:33:01,Guys you should visit this place!!!,2021-10-30 08:16:32,0
+105,5,SURE!,2021-10-29 00:06:48,,,
+20,1,of course!,2021-10-31 13:43:22,Look at this beautiful place!,2021-10-26 09:45:40,0
+684,27,Hope you are doing well,2021-10-31 10:15:00,Today was a great day!,2021-10-31 07:52:15,1
+33,265,I hope so!,2021-10-27 10:18:19,,,
+820,472,Have a good day!,2021-10-26 13:33:14,That was dope!,2021-10-27 07:26:56,0
+3,17,ajajajajajaj,2021-10-28 03:40:05,,,
+674,485,ajajajajajaj,2021-10-30 19:45:04,Today was a great day!,2021-10-26 13:41:40,1
+235,386,Hope you are doing well,2021-10-31 09:16:40,Today was a great day!,2021-10-31 19:49:19,0
+473,235,Its so hard bro,2021-10-31 09:43:56,Look at this beautiful place!,2021-10-28 21:10:11,1
+34,28,Dude stop doing that,2021-10-31 16:38:07,Guys you should visit this place!!!,2021-10-29 01:55:59,0
+235,235,What are you talking about?!,2021-10-29 14:59:01,That was dope!,2021-10-27 00:01:51,1
+22,11,See you later!,2021-10-27 00:47:07,Today was a great day!,2021-10-26 23:24:52,1
+27,19,ahahhahahaha,2021-10-27 16:45:57,That was dope!,2021-10-29 11:20:10,1
+394,23,How dare you?,2021-10-28 21:55:48,That was dope!,2021-10-26 11:45:47,0
+473,385,I don't know,2021-10-30 15:17:56,Look at this beautiful place!,2021-10-28 11:55:37,1
+8,4,How dare you?,2021-10-29 21:28:32,Guys you should visit this place!!!,2021-10-29 00:51:00,0
+24,22,Thank you,2021-10-29 19:59:57,Today was a great day!,2021-10-26 19:43:57,1
+4,10,How dare you?,2021-10-27 22:54:15,,,
+18,20,How are you?,2021-10-28 18:22:28,Today was a great day!,2021-10-28 18:48:49,1
+24,7,How dare you?,2021-10-31 21:32:18,FOOOOOD!,2021-10-26 13:16:15,1
+968,4,How are you?,2021-10-28 18:01:46,Look at my family!,2021-10-31 02:50:49,1
+386,88,How are you?,2021-10-26 05:36:36,FOOOOOD!,2021-10-31 11:49:19,1
+33,4,I hope so!,2021-10-26 08:57:29,,,
+385,385,NO WAAAY!!,2021-10-31 18:15:22,,,
+385,99,Its so hard bro,2021-10-31 23:05:51,Look at this beautiful place!,2021-10-30 10:15:37,1
+284,26,Its so hard bro,2021-10-29 13:58:19,Guys you should visit this place!!!,2021-10-31 10:00:55,1
+15,21,How are you?,2021-10-29 16:26:38,That was dope!,2021-10-27 11:29:58,0
+472,3,No way!!!!,2021-10-31 20:37:55,,,
+968,235,No way!!!!,2021-10-31 00:29:26,,,
+385,21,ajajajajajaj,2021-10-28 03:15:36,FOOOOOD!,2021-10-28 04:04:32,1
+7,25,No way!!!!,2021-10-30 05:34:22,Look at my family!,2021-10-28 16:31:15,1
+284,485,NO WAAAY!!,2021-10-31 23:09:45,That was dope!,2021-10-29 18:37:18,1
+385,160,Have a good day!,2021-10-31 06:24:46,,,
+385,385,What are you talking about?!,2021-10-29 16:32:09,Look at this beautiful place!,2021-10-27 18:41:24,1
+31,674,Love you!,2021-10-26 02:33:03,Today was a great day!,2021-10-29 11:24:10,0
+14,10,ahahhahahaha,2021-10-30 15:46:43,FOOOOOD!,2021-10-31 11:53:41,1
+33,25,I hope so!,2021-10-27 01:29:43,FOOOOOD!,2021-10-31 15:03:10,0
+1,472,ajajajajajaj,2021-10-29 07:01:45,That was dope!,2021-10-26 18:21:56,1
+206,235,I hope so!,2021-10-27 13:49:19,Look at my family!,2021-10-29 13:08:36,0
+36,54,Hey,2021-10-27 11:31:36,Look at my family!,2021-10-30 05:47:56,1
+12,54,No way!!!!,2021-10-29 02:27:53,FOOOOOD!,2021-10-26 22:21:36,1
+5,13,How dare you?,2021-10-28 09:04:30,FOOOOOD!,2021-10-30 02:24:21,1
+22,473,I'm down,2021-10-29 21:08:43,Look at this beautiful place!,2021-10-26 10:25:19,1
+88,674,What are you talking about?!,2021-10-30 21:29:38,Today was a great day!,2021-10-26 08:26:36,0
+20,11,of course!,2021-10-29 17:22:31,Guys you should visit this place!!!,2021-10-31 20:20:59,1
+274,964,Dude stop doing that,2021-10-26 05:18:53,Today was a great day!,2021-10-31 03:54:41,0
+36,16,I hope so!,2021-10-27 01:42:58,Guys you should visit this place!!!,2021-10-30 05:47:57,1
+24,34,Have a good day!,2021-10-28 11:43:51,FOOOOOD!,2021-10-30 00:50:55,0
+14,25,SURE!,2021-10-29 23:17:17,Today was a great day!,2021-10-27 06:18:55,1
+29,674,Hey,2021-10-29 14:54:48,Look at this beautiful place!,2021-10-26 16:35:52,1
+28,30,Dude stop doing that,2021-10-28 14:08:02,,,
+674,21,How dare you?,2021-10-28 05:22:02,Look at this beautiful place!,2021-10-28 15:05:57,1
+265,6,How are you?,2021-10-30 00:51:27,,,
+5,24,I'm down,2021-10-29 11:02:56,,,
+8,7,ajajajajajaj,2021-10-31 02:08:57,Look at my family!,2021-10-30 01:57:39,1
+473,11,I hope so!,2021-10-26 05:07:46,Look at my family!,2021-10-29 18:00:35,1
+5,623,Its so hard bro,2021-10-31 02:25:22,Look at this beautiful place!,2021-10-31 23:00:39,0
+235,968,Hey,2021-10-27 08:52:35,Look at my family!,2021-10-26 14:44:18,1
+394,674,ahahhahahaha,2021-10-26 22:49:44,FOOOOOD!,2021-10-30 18:11:56,1
+1,472,Hey,2021-10-30 14:49:47,,,
+6,13,See you later!,2021-10-28 04:01:08,Look at this beautiful place!,2021-10-29 14:27:47,0
+4,596,I hope so!,2021-10-29 14:09:13,,,
+596,386,What are you talking about?!,2021-10-28 13:23:08,,,
+12,684,ajajajajajaj,2021-10-29 04:58:36,Look at my family!,2021-10-30 02:47:14,0
+36,33,I don't know,2021-10-28 06:30:26,That was dope!,2021-10-27 16:44:24,0
+26,2,Love you!,2021-10-30 02:10:48,,,
+32,11,How dare you?,2021-10-26 07:53:48,Look at this beautiful place!,2021-10-29 19:20:58,1
+596,11,Thank you,2021-10-30 07:39:21,That was dope!,2021-10-28 16:13:05,1
+32,394,I'm down,2021-10-30 11:58:12,Guys you should visit this place!!!,2021-10-26 00:33:10,1
+284,1,ajajajajajaj,2021-10-30 20:21:46,Look at my family!,2021-10-28 21:54:11,0
+10,29,Thank you,2021-10-30 21:26:34,FOOOOOD!,2021-10-28 22:04:51,1
+8,235,See you later!,2021-10-30 03:24:46,FOOOOOD!,2021-10-29 21:58:14,1
+23,820,of course!,2021-10-28 15:25:44,That was dope!,2021-10-27 18:23:04,0
+473,15,Have a good day!,2021-10-27 23:47:40,Look at this beautiful place!,2021-10-29 19:46:25,0
+24,36,Dude stop doing that,2021-10-29 03:31:42,Look at my family!,2021-10-28 23:44:54,1
+26,88,Hope you are doing well,2021-10-29 03:31:28,,,
+473,11,Hope you are doing well,2021-10-29 13:41:50,Today was a great day!,2021-10-31 18:14:52,1
+20,385,What are you talking about?!,2021-10-28 05:05:54,FOOOOOD!,2021-10-31 23:27:11,1
+25,3,SURE!,2021-10-31 18:41:44,That was dope!,2021-10-30 05:52:27,1
+235,2,of course!,2021-10-28 21:21:05,Look at my family!,2021-10-28 14:49:42,0
+28,54,I don't know,2021-10-30 20:24:25,,,
+16,176,Its so hard bro,2021-10-28 12:34:22,Guys you should visit this place!!!,2021-10-31 14:54:31,1
+385,30,No way!!!!,2021-10-28 05:53:48,Guys you should visit this place!!!,2021-10-30 18:34:55,0
+26,1,How dare you?,2021-10-31 19:26:11,Look at this beautiful place!,2021-10-29 22:34:43,1
+265,5,I hope so!,2021-10-30 02:11:07,Look at my family!,2021-10-29 07:26:24,0
+25,19,See you later!,2021-10-26 10:46:28,,,
+160,394,I don't know,2021-10-29 18:34:09,Look at my family!,2021-10-26 23:22:11,1
+274,4,How dare you?,2021-10-27 09:19:50,Look at this beautiful place!,2021-10-26 04:08:57,0
+623,20,What are you talking about?!,2021-10-27 18:56:09,Look at my family!,2021-10-30 18:49:08,1
+14,674,SURE!,2021-10-26 20:18:40,FOOOOOD!,2021-10-29 18:11:09,1
+32,160,Have a good day!,2021-10-30 02:12:55,That was dope!,2021-10-27 16:59:44,1
+54,674,ajajajajajaj,2021-10-29 12:51:03,Today was a great day!,2021-10-28 08:37:30,1
+8,21,NO WAAAY!!,2021-10-31 05:35:30,Look at my family!,2021-10-29 19:12:44,0
+11,11,Thank you,2021-10-30 14:21:40,That was dope!,2021-10-27 02:54:43,0
+32,29,Thank you,2021-10-27 08:56:26,Look at my family!,2021-10-28 11:14:21,0
+19,386,Hope you are doing well,2021-10-31 10:25:37,Guys you should visit this place!!!,2021-10-31 08:41:22,0
+7,176,Love you!,2021-10-30 02:26:51,That was dope!,2021-10-31 17:55:52,0
+12,485,Thank you,2021-10-28 04:40:23,,,
+105,484,SURE!,2021-10-29 12:17:20,,,
+5,31,How dare you?,2021-10-30 00:32:25,Look at my family!,2021-10-27 13:49:22,1
+235,1,Thank you,2021-10-29 18:49:58,Today was a great day!,2021-10-26 03:15:10,1
+16,385,ajajajajajaj,2021-10-28 22:32:15,Look at my family!,2021-10-26 11:42:38,1
+24,485,of course!,2021-10-31 18:43:04,Guys you should visit this place!!!,2021-10-31 21:31:15,0
+10,968,How dare you?,2021-10-30 09:23:54,Look at this beautiful place!,2021-10-28 03:17:18,0
+3,9,Hey,2021-10-27 23:25:47,,,
+176,105,Hope you are doing well,2021-10-26 19:50:43,Look at my family!,2021-10-31 07:56:28,0
+684,8,Hope you are doing well,2021-10-28 11:22:57,Guys you should visit this place!!!,2021-10-31 20:53:09,1
+968,596,SURE!,2021-10-28 10:03:02,That was dope!,2021-10-30 05:23:14,1
+473,9,Hope you are doing well,2021-10-28 02:05:41,,,
+31,5,Thank you,2021-10-31 00:28:21,That was dope!,2021-10-28 05:26:18,0
+8,7,How dare you?,2021-10-31 15:46:19,,,
+99,29,What are you talking about?!,2021-10-26 03:01:23,,,
+968,394,ajajajajajaj,2021-10-28 10:33:42,FOOOOOD!,2021-10-29 15:36:59,0
+88,26,SURE!,2021-10-29 14:42:22,Look at this beautiful place!,2021-10-30 18:20:57,1
+22,206,Love you!,2021-10-27 19:55:14,FOOOOOD!,2021-10-26 09:37:37,0
+88,485,How dare you?,2021-10-29 14:23:02,That was dope!,2021-10-29 09:57:03,1
+485,14,I don't know,2021-10-30 12:37:25,Look at my family!,2021-10-29 00:48:35,1
+13,19,Its so hard bro,2021-10-30 05:05:21,That was dope!,2021-10-26 07:59:10,0
+10,820,See you later!,2021-10-28 14:44:09,FOOOOOD!,2021-10-28 13:09:21,0
+160,284,Its so hard bro,2021-10-30 13:55:35,That was dope!,2021-10-31 14:16:02,0
+34,284,No way!!!!,2021-10-29 20:56:09,FOOOOOD!,2021-10-29 22:09:44,0
+9,32,I'm down,2021-10-26 04:02:55,FOOOOOD!,2021-10-29 22:32:07,1
+394,54,ahahhahahaha,2021-10-26 00:44:50,That was dope!,2021-10-29 15:32:14,1
+30,13,ajajajajajaj,2021-10-31 23:23:44,Look at this beautiful place!,2021-10-31 02:55:32,0
+25,7,See you later!,2021-10-30 09:36:06,,,
+20,485,Its so hard bro,2021-10-26 05:24:23,,,
+22,674,How dare you?,2021-10-26 11:09:18,Look at this beautiful place!,2021-10-31 13:33:12,0
+968,206,Love you!,2021-10-26 11:14:51,That was dope!,2021-10-26 07:41:07,1
+22,18,Hope you are doing well,2021-10-26 05:10:08,That was dope!,2021-10-29 03:43:09,0
+11,623,What are you talking about?!,2021-10-27 16:17:50,Look at my family!,2021-10-29 09:27:34,1
+7,206,ahahhahahaha,2021-10-31 21:37:50,Look at my family!,2021-10-27 17:14:30,0
+36,206,I hope so!,2021-10-29 00:10:01,Look at this beautiful place!,2021-10-30 11:21:14,0
+386,394,ahahhahahaha,2021-10-27 11:48:26,FOOOOOD!,2021-10-31 13:36:25,0
+596,473,ajajajajajaj,2021-10-28 11:52:12,,,
+11,16,NO WAAAY!!,2021-10-26 13:38:11,,,
+34,45,NO WAAAY!!,2021-10-26 02:06:21,Guys you should visit this place!!!,2021-10-28 07:44:25,0
+23,21,Hope you are doing well,2021-10-30 10:35:01,,,
+30,32,Dude stop doing that,2021-10-28 12:56:30,Look at this beautiful place!,2021-10-28 23:06:04,0
+484,12,Hey,2021-10-28 04:08:57,,,
+206,10,Have a good day!,2021-10-31 03:20:22,,,
+3,22,ajajajajajaj,2021-10-26 15:31:53,FOOOOOD!,2021-10-28 09:50:52,1
+7,33,ahahhahahaha,2021-10-30 10:45:30,Look at my family!,2021-10-28 20:31:56,0
