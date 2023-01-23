@@ -2,8 +2,6 @@
 
 A training to design relational database tables with particular applications in mind.
 
-Training exercises described in the [instructions](./instructions.md)
-
 # FIRST PART
 ### Tables and import
 CREATE TABLE restaurants (
