@@ -1,4 +1,4 @@
-# SQL CRUD
+# SQL CRUD Training
 
 Complete the following exercises. For each:
 
