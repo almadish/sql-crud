@@ -1,6 +1,6 @@
 # SQL CRUD Training
 
-SQL CRUD Training results are shown in [here](myLib/SQLCRUD.md)
+SQL CRUD Training results are shown in [here](./SQLCRUD.md)
 
 Complete the following exercises. For each:
 
