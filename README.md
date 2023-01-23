@@ -1,5 +1,7 @@
 # SQL CRUD Training
 
+SQL CRUD Training results are shown in [here](myLib/SQLCRUD.md)
+
 Complete the following exercises. For each:
 
 - determine the structure of any tables
